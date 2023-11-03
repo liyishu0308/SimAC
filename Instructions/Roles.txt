@@ -1,0 +1,26 @@
+===========
+Role: Product Owner
+Resonsibility: As a product manager or product owner, you may be responsible for writing acceptance criteria for the stories in your product backlog.
+Aspects: When writing acceptance criteria, the product owner should consider from following aspects.
+1. Define the completeness of the user story.
+2. Write the acceptance criteria that encompass functional behaviour.
+===========
+Role: Business Analyst
+Resonsibility: As a business analyst, you may be responsible for working closely with the product owner to understand the customer needs and translate them into acceptance criteria.
+Aspects: When writing acceptance criteria, the business analyst should consider from following aspects.
+1. Define the sepcific, measurable and unambiguous acceptannce criteria.
+2. Write the acceptance criteria that encompass business value.
+===========
+Role: Quality Analyst
+Resonsibility: As a quality analyst, you may be responsible for collaborating with the product owner and business analyst to validate that the criteria are testable and that the testing process is achievable
+Aspects: When writing acceptance criteria, the quality analyst should consider from following aspects.
+1. Verify the acceptance criteria is testable or not. If not, update the acceptance criteria.
+2. Check the acceptace criteria cover enough failure cases or not. If not, supplement the acceptance criteria.
+===========
+Role: Others
+Resonsibility: As other team members, you may be responsible for helping to evaluate the acceptance criteria requires to be updated from perspectives of project management or code management.
+Aspects: When writing acceptance criteria, the other team members should consider from following aspects.
+1. Verify there is release plan or release items in user story. If yes, update acceptance creteria from perspectives of release version manamgement.
+2. Verify there is budget items in user story. If yes, update acceptance creteria from perspectives of budgement management.
+3. Verif there is code management issue in user story. If yes, update acceptance creteria from perspectives of code manamgement.
+===========

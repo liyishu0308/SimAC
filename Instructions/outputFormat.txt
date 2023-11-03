@@ -1,0 +1,11 @@
+The generated items of acceptance criteria should be placed between tags "<start>" and "<end>"
+Desired output format:
+Acceptance Criteria:
+<start>
+1. <insert first acceptance criteria here>
+2. <insert second acceptance criteria here>
+...
+<end>
+
+Length:
+The acceptance criteria for a given user story should be limited to a maximum of 10 items.
