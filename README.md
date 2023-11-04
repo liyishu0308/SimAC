@@ -8,7 +8,7 @@ In this work, we implemented SimAC on four LLMs.
 1. The prompts are specified under "./Instructions".
 2. The examples are specified under "./Examples".
 3. The input user stories are placed under "./UserStories".
-4. Update the target user story in "./LLM/xx.py".
+4. Update the target user story in "./LLMs/xx.py".
 5. Enter folder "./LLMs", and run specific scripts for different LLMs.
 ### gpt-3.5-turbo
 ```
