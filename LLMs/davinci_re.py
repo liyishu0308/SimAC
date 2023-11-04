@@ -1,6 +1,6 @@
 '''
 danvinci model
-roles with examples
+no roles
 '''
 
 import os
@@ -46,41 +46,20 @@ def bufferedChat(us, promptInput):
     preOutput = ''
 
     ## Pop user and assistant prompt for each iteration, with system role in first iteration
-    while(input):
+    newInput = input.pop(0)
+    currentInput = initialPrompt + newInput
 
-        if stage == "C":
-            newInput = input.pop(0)
-            currentInput = initialPrompt + "\n" + newInput
+    currentOutput, completion = askGPT(currentInput)
+    currentOutput = removeBlankLines(currentOutput)
 
-            currentOutput, completion = askGPT(currentInput)
-            currentOutput = removeBlankLines(currentOutput)
-            preOutput = currentOutput
-            stage = "U"
-
-            output = output + currentOutput + '\n'
-            outputs.append(currentOutput)
-            history.append((currentInput, currentOutput))
-            allCompletions.append(completion)
-            continue
-
-        else:
-            newInput = input.pop(0)
-            updatedInput = preOutput + "\n" + newInput
-            currentInput = initialPrompt + "\n\n" + updatedInput
-            currentOuput, completion = askGPT(currentInput)
-            currentOuput = removeBlankLines(currentOuput)
-            preOutput = currentOutput
-
-            output = output + currentOuput + '\n'
-            outputs.append(currentOuput)
-            history.append((currentInput, currentOuput))
-            allCompletions.append(completion)
-            continue
-
+    output = output + currentOutput + '\n'
+    outputs.append(currentOutput)
+    history.append((currentInput, currentOutput))
+    allCompletions.append(completion)
 
     return output, outputs, history, allCompletions
 
-def runByProject(numbers, scriptNo, ratio, cases):
+def runByProject(numbers, scriptNo, cases):
 
     for projectNo in numbers:
 
@@ -105,7 +84,7 @@ def runByProject(numbers, scriptNo, ratio, cases):
             writeACbyProjectDavinci(us, ac, projectNo, scriptNo, usNo)
             writeAllResultsbyProjectDavinci(all_history, projectNo, scriptNo, usNo)
             saveCompletionsbyProjectDavinci(all_completions,projectNo, scriptNo, usNo)
-            # processFinalACbyProjectDavinci(us, projectNo, scriptNo, usNo, ratio)
+            # processFinalACbyProjectDavinciNoRatio(us, projectNo, scriptNo, usNo)
 
 
 
@@ -113,28 +92,24 @@ def constructeInput(us):
     usFile, pbExample, qaExample, pmExample = readExamplesAC("7")
     usFile2, pbExample2, qaExample2, pmExample2 = readExamplesAC("8")
     usFile3, pbExample3, qaExample3, pmExample3 = readExamplesAC("9")
-    initSysContent = readInstruction("Instructions/initialSystem_4.txt")
-    roleDes = readRoleInstruction("Instructions/Roles_2.txt")
+    initSysContent = readInstruction("Instructions/initialSystem_7.txt")
     outputFormat = readInstruction("Instructions/outputFormat.txt")
 
-    command_1 = "Write acceptance criteria for the given user story as the Product Owner and Business Analyst:\n"
-    command_2 = "Update or supplement the above acceptance criteria for the given user story as a Quality Analyst if necessary.\n"
-    command_3 = "Update or supplement the above acceptance criteria for the given user story as other team members if necessary.\n"
-    commands = []
-    commands.append(command_1)
-    commands.append(command_2)
-    commands.append(command_3)
+    command = "Write acceptance criteria for the given user story."
 
-    learnings = [
-        command_1 + "\n" + usFile + "\n" + pbExample + "\n" + command_2 + usFile + "\n" + qaExample + "\n" + command_3 + usFile + "\n" + pmExample,
-        command_1 + "\n" + usFile2 + "\n" + pbExample2 + "\n" + command_2 + usFile2 + "\n" + qaExample2 + "\n" + command_3 + usFile2 + "\n" + pmExample2,
-        command_1 + "\n" + usFile3 + "\n" + pbExample3 + "\n" + command_2 + usFile + "\n" + qaExample3 + "\n" + command_3 + usFile + "\n" + pmExample3]
+    # learnings = [command_1 + "\n" + usFile + "\n" + pbExample + command_2 + usFile + "\n" + qaExample + usFile + "\n" + pmExample,
+    #              command_1 + "\n" + usFile2 + "\n" + pbExample2 + command_2 + usFile2 + "\n" + qaExample2 + usFile2 + "\n" + pmExample2,
+    #              command_1 + "\n" + usFile3 + "\n" + pbExample3 + command_2 + usFile + "\n" + qaExample3 + usFile + "\n" + pmExample3]
 
-    contextAndRole = initSysContent + "\n" + outputFormat + "\n" + "Here are role instructions in this activity.\n" + roleDes + "\n"
+    learnings = [command + "\n" + usFile + "\n" + pbExample,
+                 command + "\n" + usFile2 + "\n" + pbExample2,
+                 command + "\n" + usFile3 + "\n" + pbExample3]
 
-    prompts = contextAndRole + "Here are some examples.\n" + learnings[1]
+    contextAndRole = initSysContent + "\n" + outputFormat + "\n"
 
-    completionComands = [command_1 + "\n" + us + "\n", command_2 + "\n" + us + "\n", command_3 + "\n" + us + "\n"]
+    prompts = contextAndRole + learnings[1]
+
+    completionComands = [command + "\n" + us + "\n"]
 
     myInput = [prompts, completionComands]
 
@@ -150,8 +125,7 @@ projectNumbers = ["28"]
 # evaluateCases = [30, 63, 53, 37, 26, 57, 65, 2, 40, 58] ## g11
 # evaluateCases = [50, 27, 7, 25, 11, 26, 16, 21, 8, 1] ## g24
 evaluateCases = [6, 49, 5, 20, 25, 50, 17, 3, 15,	21] ## g28
-scriptNo = "3"
-ratio = 0.9
-runByProject(projectNumbers, scriptNo, ratio, evaluateCases)
+scriptNo = "4"
+runByProject(projectNumbers, scriptNo, evaluateCases)
 
 
