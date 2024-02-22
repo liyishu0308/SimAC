@@ -30,7 +30,7 @@ python davinci_re.py
 ```
 cd LLMs
 ## role-based prompt
-python openLLaMA_ro.py ## update the preloaded model as OpenLLaMA-7B or OpenLaMA-13B
+python openLLaMA_ro.py ## update the preloaded model as OpenLLaMA-7B or OpenLLaMA-13B
 ## regular-prompt
-python openLLaMA_re.py ## update the preloaded model as OpenLLaMA-7B or OpenLaMA-13B
+python openLLaMA_re.py ## update the preloaded model as OpenLLaMA-7B or OpenLLaMA-13B
 ```
