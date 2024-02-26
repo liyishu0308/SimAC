@@ -1,0 +1,24 @@
+User Story: 
+As a depositor, I want to allow my collaborators privileged access to datasets, so that we continue to have a productive relationship.
+
+Acceptance Criteria (generated from Model #1)
+1. The depositor should have the ability to grant access to specific datasets to selected collaborators.
+2. The system should provide a user interface for the depositor to manage and modify the privileges of the collaborators.
+3. The depositor should be able to assign different levels of access privileges to the collaborators, such as read-only access or read-write access.
+4. The collaborators should receive notifications or alerts when their access privileges are modified or when new datasets are shared with them.
+5. The system should enforce access control measures to prevent unauthorized access to datasets by collaborators.
+6. The system should provide the option for granular permission settings, allowing the depositor to define access at the file or folder level.
+7. The system should have a backup and recovery mechanism in place to protect the datasets in case of accidental loss or corruption.
+8. The system should have the ability to revoke access privileges for a collaborator if necessary.
+9. The system should allow the depositor to set restrictions on specific datasets, such as restricting access based on time or location.
+
+Acceptance Criteria (generated from Model #2)
+1. The depositor should have the ability to grant access to specific datasets to selected collaborators.
+2. The system should track and log the activities of the collaborators for auditing purposes.
+3. The collaborators should receive notifications or alerts when their access privileges are modified or when new datasets are shared with them.
+
+Acceptance Criteria (generated from Model #3)
+1. The depositor should have the ability to grant access to specific datasets to selected collaborators.
+2. The system should provide a user interface for the depositor to manage and modify the privileges of the collaborators.
+3. The collaborators should receive notifications or alerts when their access privileges are modified or when new datasets are shared with them.
+

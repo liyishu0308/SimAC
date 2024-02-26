@@ -1,0 +1,30 @@
+User Story: 
+As an NSF employee, I want to have editorial-planning recommendations, so that I can understand how they might impact an eventual CMS / future web presence.
+
+Acceptance Criteria (generated from Model #1)
+1. The editorial-planning recommendations should be accessible to NSF employees.
+2. The recommendations should be based on data analysis and insights from user research and content strategy.
+3. The recommendations should consider the goals and objectives of NSF and align with the organization's mission.
+4. The recommendations should provide insights into potential impacts on the content management system (CMS) and future web presence.
+5. The recommendations should be presented in a clear and understandable format, providing specific actions and considerations for implementation.
+6. The recommendations should prioritize high-impact opportunities for improvement and provide reasoning for each recommendation.
+7. The editorial-planning recommendations should be regularly updated to stay relevant and reflect evolving user needs and industry best practices.
+8. The recommendations should be created collaboratively with input from stakeholders such as content creators, developers, and user experience experts.
+9. The recommendations should be testable by conducting user acceptance testing (UAT) to ensure they meet the needs of NSF employees and are feasible to implement in the CMS and future web presence.
+10. The recommendations should undergo a review process by relevant stakeholders to validate their accuracy and feasibility before implementation.
+11. The recommendations should be accompanied by estimated resources required for implementation, including time, budget, and personnel.
+
+Acceptance Criteria (generated from Model #2)
+1. The editorial-planning recommendations should be accessible to NSF employees.
+2. The recommendations should consider the goals and objectives of NSF and align with the organization's mission.
+3. The recommendations should provide insights into potential impacts on the content management system (CMS) and future web presence.
+
+Acceptance Criteria (generated from Model #3)
+1. The editorial-planning recommendations should be accessible to NSF employees.
+2. The recommendations should be based on data analysis and insights from user research and content strategy.
+3. The recommendations should consider the goals and objectives of NSF and align with the organization's mission.
+4. The recommendations should provide insights into potential impacts on the content management system (CMS) and future web presence.
+5. The recommendations should prioritize high-impact opportunities for improvement and provide reasoning for each recommendation.
+6. The recommendations should undergo a review process by relevant stakeholders to validate their accuracy and feasibility before implementation.
+7. The recommendations should be accompanied by estimated resources required for implementation, including time, budget, and personnel.
+

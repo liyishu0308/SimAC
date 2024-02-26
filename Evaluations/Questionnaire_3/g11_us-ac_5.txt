@@ -1,0 +1,23 @@
+User Story: 
+As an NSF employee, I want to understand work performed, so that I can understand when and what I can use later.
+
+Acceptance Criteria (generated from Model #1)
+1. The system should provide a clear and comprehensive record of the work performed by the NSF employee.
+2. The work performed should be documented with details such as the date, time, description, and any relevant supporting information.
+3. The documentation of work should be easily accessible and searchable by the NSF employee.
+4. The system should allow the NSF employee to categorize and tag the work performed for easier organization and retrieval.
+5. The work performed should be saved and stored securely to ensure data integrity and confidentiality.
+6. The work performed documentation should be integrated with any existing project or task management systems used by the NSF employee.
+7. The system should have version control or a revision history feature to track changes made to the documented work.
+8. The system should send automated reminders or notifications to the NSF employee for any pending or incomplete work that requires attention.
+
+Acceptance Criteria (generated from Model #2)
+1. The system should provide a clear and comprehensive record of the work performed by the NSF employee.
+2. The work performed should be saved and stored securely to ensure data integrity and confidentiality.
+
+Acceptance Criteria (generated from Model #3)
+1. The system should provide a clear and comprehensive record of the work performed by the NSF employee.
+2. The work performed should be documented with details such as the date, time, description, and any relevant supporting information.
+3. The work performed should be saved and stored securely to ensure data integrity and confidentiality.
+4. The system should have version control or a revision history feature to track changes made to the documented work.
+
