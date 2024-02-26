@@ -1,0 +1,37 @@
+User Story: 
+As an author, I want to be able to indent / outdent content.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to indent a selected block of text by pressing the Tab key or using the dedicated indent button.
+2. The indentation should be visually reflected in the editor, with the selected block of text being shifted to the right.
+3. The user should be able to outdent a selected block of text by pressing the Shift + Tab keys or using the dedicated outdent button.
+4. The outdentation should be visually reflected in the editor, with the selected block of text being shifted to the left.
+5. The indentation and outdentation should work consistently across different platforms and devices.
+6. The indentation and outdentation functionality should be easily accessible and intuitive for the user.
+7. The user should be able to undo and redo the indentation and outdentation actions.
+8. When indenting or outdenting a multiline block of text, the indentation or outdentation should be applied to each line of the block.
+9. The user should be able to adjust the amount of indentation or outdentation, allowing for different levels of indentation.
+10. The indentation and outdentation functionality should work reliably and quickly, without any delay or freezing of the editor.
+
+Acceptance Criteria (generated from Model #2)
+1. The user interface should provide buttons or options specifically for indenting and outdenting content.
+2. When the user selects a block of content and clicks the indent button, the selected content should be indented by a predefined amount or according to a specified indentation level.
+3. Indenting or outdenting the content should not cause any loss of information or formatting.
+4. The indentation should be preserved when the content is saved or exported.
+5. The application should provide a way to undo or redo indentation and outdentation actions.
+6. The indentation and outdentation functionality should be accessible through keyboard shortcuts or touch gestures for efficient use.
+7. The application should handle different content types (e.g., text, images, tables) and preserve the indentation appropriately for each type.
+8. The indentation functionality should work consistently across different browsers and operating systems.
+
+Acceptance Criteria (generated from Model #3)
+1. The text editor should have options or buttons for indenting and outdenting content.
+2. Clicking the "Indent" button should increase the indentation level of the selected content by a predefined amount.
+3. The user should be able to select multiple paragraphs or lines of text and indent/outdent them simultaneously.
+4. The indentation level should be visually represented in the text editor, such as with a specific margin or a change in text formatting.
+5. The indentation should be preserved when the content is saved and loaded again.
+6. When indenting or outdenting paragraphs or lines of text, the formatting and styling of the content should not be affected or broken.
+7. The text editor should allow the user to customize the indentation settings, such as setting the amount of indentation or choosing a different style for indentation.
+8. The text editor should handle keyboard shortcuts for indenting and outdenting, providing a convenient and efficient way for users to perform these actions.
+9. The keyboard shortcuts for indenting/outdenting should be supported, such as using the Tab key to indent and Shift + Tab to outdent.
+10. The text editor should provide an option to customize the amount of indentation for the content.
+

@@ -1,0 +1,47 @@
+User Story: 
+As an NSF employee, I want to understand work performed, so that I can understand when and what I can use later.
+
+Acceptance Criteria (generated from Model #1)
+1. The system should provide a clear and detailed view of the work performed by the employee.
+2. The work performed should be organized by date, allowing the employee to easily reference past work.
+3. The system should clearly display the type of work performed, such as research, analysis, or documentation.
+4. The system should allow the employee to filter the work performed by different categories, such as project or task.
+5. Each work entry should include a description or summary of the work performed, providing enough information for the employee to understand the content.
+6. The system should display the time and date when the work was performed, allowing the employee to track their progress over time.
+7. The work performed should be easily searchable, using keywords or tags.
+8. The system should provide a clear and intuitive user interface, making it easy for the employee to navigate and understand the work performed.
+9. The system should have authentication and access control measures in place to ensure that only authorized employees can view and access the work performed.
+10. The system should have backup and data recovery mechanisms to protect the work performed from any potential loss or corruption.
+11. The system should generate reports or summaries of the work performed and associated costs, providing transparency and accountability for budget management.
+12. The system should ensure that any code or software used to track and manage the work performed is secure and up-to-date.
+13. The system should support integration with other code management tools, such as version control systems or issue tracking systems.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to access a record of work performed through the NSF employee portal.
+2. Upon logging into the employee portal, the user should see a clear and organized section or page that provides a record of work performed.
+3. The user should be able to filter and search for specific work performed based on relevant criteria such as date, project name, or task category.
+4. The record of work performed should include the date, project name, task description, and any relevant documentation or attachments.
+5. The work performed entries should be displayed in a chronological order, with the most recent entries at the top.
+6. The user should have the ability to export or download the record of work performed for future reference or reporting purposes.
+7. The user should be able to add comments or notes to each work performed entry for additional context or clarification.
+
+Acceptance Criteria (generated from Model #3)
+1. The system should provide a clear and comprehensive record of the work performed by the NSF employee.
+2. The work performed should be documented with details such as the date, time, description, and any relevant supporting information.
+3. The documentation of work should be easily accessible and searchable by the NSF employee.
+4. The system should allow the NSF employee to categorize and tag the work performed for easier organization and retrieval.
+5. The work performed should be saved and stored securely to ensure data integrity and confidentiality.
+6. The work performed documentation should be integrated with any existing project or task management systems used by the NSF employee.
+7. The system should have version control or a revision history feature to track changes made to the documented work.
+8. The system should send automated reminders or notifications to the NSF employee for any pending or incomplete work that requires attention.
+
+Acceptance Criteria (generated from Model #4)
+1. The system should provide a work log or work history feature that captures and records the details of the work performed by NSF employees.
+2. The work log should include information such as the date, time, and description of the work performed.
+3. The work log should be easily accessible and viewable by the NSF employee.
+4. The work log should be searchable by various criteria, such as date, keywords, or specific projects or tasks.
+5. The work log should allow NSF employees to add comments or additional information to provide context or clarify the work performed.
+6. The work log should support data export or reporting functionality to enable the generation of reports or data analysis for tracking and planning purposes.
+7. The work log should provide the ability to track the time spent on each task or activity to facilitate accurate time tracking and resource allocation.
+8. The work log entries should include the responsible employee's information, such as their name or employee ID, to attribute the work performed to the respective employee.
+

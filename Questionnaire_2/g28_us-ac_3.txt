@@ -1,0 +1,38 @@
+User Story: 
+As a user, I want to upload tagged videos and have tags available for all further processing steps.	
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to upload videos to the application.
+2. The application should provide a way for the user to add tags to the uploaded videos.
+3. The tags added to the videos should be stored and associated with the respective videos.
+4. The tags should be available for all further processing steps, such as searching, filtering, and categorizing the videos.
+5. The user should be able to view and edit the tags associated with each video.
+6. The application should validate and handle any errors or issues related to the tagging process, such as duplicate tags or unsupported characters.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to upload videos to the platform.
+2. The platform should support common video file formats such as MP4, AVI, and MOV.
+3. The system should store the tags associated with each video for further processing.
+4. The tags should be displayed and accessible for all subsequent steps, such as searching, filtering, and categorizing videos.
+5. Users should be able to edit or remove tags from their uploaded videos.
+6. The system should support a sufficient number of tags per video, allowing users to add multiple tags for easy classification and organization.
+7. The platform should provide a user-friendly interface for tagging videos, making it easy for users to add, modify, and manage tags.
+8. The system should validate the uploaded videos to ensure they meet any specified requirements or limitations (e.g., file size, resolution, duration).
+9. The platform should display an appropriate error message if a user tries to upload a video that exceeds the specified file size, resolution, or duration limits.
+10. Any special characters or formatting in the tags should be properly handled and displayed as intended in the platform.
+11. The system should maintain the order of the tags as selected by the user during the upload process.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to upload videos with specified tags.
+2. The uploaded videos should have the tags associated with them for further processing steps.
+3. Tags should be saved and stored in a database or data repository.
+4. The system should accept videos in common file formats like MP4, AVI, or MOV.
+5. The system should validate that the uploaded videos are within the permitted file size and format limits.
+6. The tags associated with each video should be displayed and accessible in subsequent processing steps, such as searching or categorizing videos.
+7. The system should prevent duplicate tags from being assigned to the same video.
+8. The system should handle and display tags in a case-insensitive manner, so that "Tag1" and "tag1" are treated as the same tag.
+9. When the user uploads a video, the system should generate a unique identifier for the video and associate it with the uploaded tags for easy identification and retrieval.
+10. The tags should be searchable and the system should provide autocomplete suggestions based on existing tags to facilitate efficient tagging.
+11. The system should support bulk uploading of videos and associated tags for efficiency and convenience.
+12. The system should provide the capability to edit or remove tags from uploaded videos if needed.
+

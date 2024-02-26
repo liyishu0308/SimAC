@@ -1,0 +1,27 @@
+User Story: 
+As a data reuser, I want to get a persistent URL for a dataset, so that I can get back to the data in future.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to generate a persistent URL for a dataset from the application.
+2. The persistent URL should be unique and not change over time.
+3. The persistent URL should be easily recognizable and human-readable.
+4. The persistent URL should be shareable and accessible by other users.
+5. Clicking on the persistent URL should direct the user to the corresponding dataset.
+6. The persistent URL should be valid and functional even after a long period of time.
+7. The persistent URL should not expose any sensitive or confidential data.
+8. The application should track the usage of persistent URLs to monitor any potential issues or errors.
+9. The persistent URL should have version management, allowing access to different versions of the dataset if applicable.
+10. The application should provide an option to manually or automatically renew the persistent URL to ensure continued accessibility to the dataset.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to generate a persistent URL for a dataset from the application.
+2. The persistent URL should be shareable and accessible by other users.
+3. The persistent URL should not expose any sensitive or confidential data.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to generate a persistent URL for a dataset from the application.
+2. The persistent URL should be unique and not change over time.
+3. The persistent URL should be shareable and accessible by other users.
+4. Clicking on the persistent URL should direct the user to the corresponding dataset.
+5. The persistent URL should not expose any sensitive or confidential data.
+

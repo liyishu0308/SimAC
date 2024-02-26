@@ -1,0 +1,30 @@
+User Story: 
+As a depositor, I want to deposit arbitrarily large files, so that I am not limited in what files I can and cannot deposit.
+
+Acceptance Criteria (generated from Model #1)
+1. The application should allow the depositor to upload files of any size without any limitations or restrictions.
+2. The file upload functionality should support a wide range of popular file formats, such as documents, images, videos, and audio files.
+3. The uploading process should be efficient and not significantly impact the overall performance of the application.
+4. There should be appropriate error handling in place, displaying clear error messages if the file upload fails for any reason.
+5. The application should provide progress indicators or status updates during the file upload process.
+6. Users should be able to upload multiple files simultaneously, if desired.
+7. The application should have sufficient server storage capacity to accommodate large file sizes without running out of space.
+8. Conduct load testing by simulating concurrent file uploads with varying sizes, checking for any performance degradation or system crashes.
+9. Verify that the application handles edge cases, such as network interruptions during file uploads, and resumes uploads seamlessly once the connection is restored.
+10. The file upload process should be secure, with appropriate measures in place to protect the uploaded files from unauthorized access or leakage.
+11. The application should have the capability to resume file uploads in case of network interruptions or user interruptions.
+12. The file upload functionality should include the option for the depositor to add relevant metadata or descriptions to the uploaded files, if needed.
+
+Acceptance Criteria (generated from Model #2)
+1. The application should allow the depositor to upload files of any size without any limitations or restrictions.
+2. The file upload functionality should support a wide range of popular file formats, such as documents, images, videos, and audio files.
+3. Users should be able to upload multiple files simultaneously, if desired.
+
+Acceptance Criteria (generated from Model #3)
+1. The application should allow the depositor to upload files of any size without any limitations or restrictions.
+2. The file upload functionality should support a wide range of popular file formats, such as documents, images, videos, and audio files.
+3. The uploading process should be efficient and not significantly impact the overall performance of the application.
+4. There should be appropriate error handling in place, displaying clear error messages if the file upload fails for any reason.
+5. Users should be able to upload multiple files simultaneously, if desired.
+6. Conduct load testing by simulating concurrent file uploads with varying sizes, checking for any performance degradation or system crashes.
+

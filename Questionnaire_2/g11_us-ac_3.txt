@@ -1,0 +1,36 @@
+User Story: 
+As a VisualDesigner, I want to create a moodboard to aid with visual design concepts for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+
+Acceptance Criteria (generated from Model #1)
+1. The moodboard creation feature should be accessible from the VisualDesigner's account dashboard.
+2. The VisualDesigner should be able to add, remove, and rearrange images within the moodboard.
+3. The VisualDesigner should be able to upload images from their device or select images from a pre-existing library.
+4. The moodboard should support various file formats, including JPEG, PNG, and GIF.
+5. The VisualDesigner should be able to add notes or descriptions to each image on the moodboard.
+6. The moodboard should have a zoom functionality to allow the VisualDesigner to view the images in detail.
+7. The VisualDesigner should be able to share the moodboard with stakeholders via a unique URL or by sending email invitations.
+8. The stakeholders should be able to view the moodboard without needing to create an account or log in.
+9. The moodboard should display images and their accompanying notes in a visually appealing and organized manner.
+
+Acceptance Criteria (generated from Model #2)
+1. The visual designer should be able to access a moodboard creation tool or feature on the nsf.gov website.
+2. The moodboard creation tool should allow the designer to easily add and arrange visual elements such as images, colors, typography, and textures.
+3. The designer should be able to save and name multiple moodboards for different design concepts or discussions.
+4. The moodboard creation tool should support collaboration, allowing the designer to share and discuss moodboards with stakeholders.
+5. The moodboard should be visually appealing and accurately represent the intended design concept.
+6. The moodboard creation tool should provide a way for stakeholders to provide feedback or comments on specific elements of the moodboard.
+7. The moodboard should be easily exportable in a common image format (e.g., JPEG or PNG) for sharing or documentation purposes.
+8. The moodboard creation tool should have an intuitive and user-friendly interface, making it easy for the visual designer to add, arrange, and edit elements.
+9. The moodboard creation tool should be compatible with different web browsers (e.g., Chrome, Firefox, Safari) to ensure a consistent experience for all users.
+10. The moodboard creation tool should have appropriate error handling and validation to prevent data loss or unexpected errors.
+
+Acceptance Criteria (generated from Model #3)
+1. The Visual Designer should be able to access the moodboard creation feature from the visual design tool.
+2. The moodboard creation feature should allow the Visual Designer to upload and arrange images, text, and color swatches to create the desired visual design concepts.
+3. The Visual Designer should be able to add labels or descriptions to the elements in the moodboard to provide context and explain the design concepts.
+4. The moodboard should be visually appealing and well-organized, making it easy to understand and navigate for all stakeholders.
+5. The moodboard should provide a good representation of different design concepts, showcasing a variety of visual elements, layouts, and color schemes.
+6. The moodboard should be accessible and compatible with different devices and screen sizes to ensure that all stakeholders can view and provide feedback on the design concepts.
+7. The moodboard creation feature should have appropriate error handling and validation, alerting the Visual Designer of any issues with uploading or arranging elements.
+8. The moodboard creation feature should support collaboration, allowing multiple team members to work on the moodboard simultaneously and make real-time updates.
+

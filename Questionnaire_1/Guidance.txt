@@ -1,0 +1,47 @@
+****Backgrounds**********************************************************
+Questionnaire for the effectiveness of different models in the task of User Story Completion.
+The complete user story with acceptance criteria is marked as "US-AC".
+
+Please score each US-AC by the five attributes of INVEST evaluation criteria.
+The score of each attribute is 0 to 4.
+0 = US-AC fulfilled the X attribute poorly.
+1 = US-AC fulfilled the X attribute unsatisfactorily.
+2 = US-AC fulfilled the X attribute to some extent.
+3 = US-AC fulfilled the X attribute satisfactorily.
+4 = US-AC fulfilled the X attribute very satisfactorily.
+
+INVEST evaluation attributes:
+Attribute 1 (Independent): The US-AC should be as independent as possible. It can be worked on in any order. It allows for true prioritization of each and every story. 
+Attribute 2 (Negotiable): The US-AC is not an explicit contract and should leave space for discussion. It can be rewritten, depending on business, market, technical or any other type of requirement by team members.
+Attribute 3 (Valuable): A US-AC must deliver value to the stakeholders.
+Attribute 4 (Estimable): The US-AC should be estimable. It is well enough understood by team members to be able to determine its relative size (in development and cost).
+Attribute 5 (Small): The US-AC should not be so big as to become impossible to plan/task/prioritize within a level of accuracy.
+Attribute 6 (Testable): A US-AC must provide the necessary information to make test development possible.
+
+The generations for different models are randomly ordered.
+And US-ACs are randomly picked from 3 projects (e.g., g11, g24, g28).
+
+Brief description of three projects:
+g11 - New version of the NSF website: redesign and content discover.
+g24 - Institutional data repository for the University of Bath.
+g28 - Citizen science platform that allows anyone to help in research tasks.
+
+****Actions***********************************************************
+Please fill in the Tab Scores (Column D-I) in ScoreSheets.xlsx.
+Column "Group No." - The number of projects.
+Column "US No." - The number of given user stories.
+Column "Model #" - The model number of the generated acceptance criteria.
+Column "Independent" - The score of Independent. (0 to 4)
+Column "Negotiable" - The score of Negotiable. (0 to 4)
+Column "Valuable" - The score of Valuable. (0 to 4)
+Column "Estimable" - The score of Estimable. (0 to 4)
+Column "Small" - The score of Small. (0 to 4)
+Column "Testable" - The score of Testable. (0 to 4)
+
+Please fill in the Tab Information (Column B) in ScoreSheets.xlsx.
+Column A - Description of your information.
+Column B - Details of your information. 
+
+**************************************************************
+Your information will be collected for statistical analysis and the details will not be published!!
+**************************************************************
