@@ -1,0 +1,25 @@
+User Story: 
+As an admin, I want to prefilter the content using search on high­level asset information such as metadata and tags either recognized by the system of provided by the user.	
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to search for assets using the provided search criteria.
+2. The search results should be displayed in a list of assets.
+3. The user should be able to select an asset from the search results and view its details.
+4. The user should be able to view the asset details including its metadata and tags.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to search for content using the search box.
+2. The search results should be displayed in a list.
+3. The search results should include the asset name, asset type, and asset tags.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to search for high-level asset information such as metadata and tags.
+2. The user should be able to search for high-level asset information using a variety of search criteria, such as metadata, tags, and keywords.
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to search for high-level asset information such as metadata and tags.
+2. The user should be able to filter the search results based on the search criteria.
+3. The user should be able to view the search results in a list or grid view.
+4. The user should be able to sort the search results by any of the search criteria.
+5. The user should be able to view the search results in a table view.
+

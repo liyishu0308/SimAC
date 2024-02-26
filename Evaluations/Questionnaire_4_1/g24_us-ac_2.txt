@@ -1,0 +1,41 @@
+User Story: 
+As a data reuser, I want to get a persistent URL for a dataset, so that I can get back to the data in future.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to generate a persistent URL for a specific dataset.
+2. The persistent URL should be unique and not change over time, regardless of any updates or changes made to the dataset.
+3. The persistent URL should be easily shareable with others, allowing them to access the dataset directly.
+4. The persistent URL should lead directly to the dataset and not require any additional authentication or authorization steps.
+5. The persistent URL should work across different devices and platforms, ensuring accessibility for all users.
+6. If the dataset is moved or relocated, the persistent URL should automatically redirect to the new location without any interruption in access.
+7. The persistent URL should return an error message or notification if the dataset is no longer available or has been deleted.
+8. The persistent URL should be easy to remember, user-friendly, and follow a consistent naming convention.
+9. The persistent URL should have a reasonable expiration time, if applicable, to ensure data privacy and security.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to generate a persistent URL for a dataset from the application.
+2. The persistent URL should be unique and not change over time.
+3. The persistent URL should be easily recognizable and human-readable.
+4. The persistent URL should be shareable and accessible by other users.
+5. Clicking on the persistent URL should direct the user to the corresponding dataset.
+6. The persistent URL should be valid and functional even after a long period of time.
+7. The persistent URL should not expose any sensitive or confidential data.
+8. The application should track the usage of persistent URLs to monitor any potential issues or errors.
+9. The persistent URL should have version management, allowing access to different versions of the dataset if applicable.
+10. The application should provide an option to manually or automatically renew the persistent URL to ensure continued accessibility to the dataset.
+
+Acceptance Criteria (generated from Model #3)
+1. The data reuser should be able to get a persistent URL for a dataset.
+2. The URL should remain valid for a minimum of 6 months.
+3. The URL should be accessible to the data reuser from any device.
+4. The URL should be unique and not shared with any other user.
+5. The URL should contain information about the dataset, such as its name, size, and date of last update.
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to generate a persistent URL for a dataset.
+2. The URL should be valid for a minimum of 6 months.
+3. The URL should be accessible to the user only.
+4. The URL should be able to be shared with other users.
+5. The URL should be protected from unauthorized access.
+6. The URL should be automatically expired when the user's session is expired.
+

@@ -1,0 +1,22 @@
+User Story:
+As an author, I want to be able to indent / outdent content.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to indent or outdent content by using the appropriate keyboard shortcut.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to indent or outdent content.
+2. The user should be able to indent or outdent content by a single level.
+3. The user should be abl
+4. The user should be able to indent or outdent to indent or outdent to the user to the user.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to indent / outdent content.
+2. The user should be able to indent / outdent content by a specified number of spaces.
+3. The user should be able to indent / outdent content by a specified number of word
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to indent / outdent content.
+2. The user should be able to indent / outdent content by a specified number of levels.
+3. The user should be able to indent / outdent content by a specified number of levels, and the indentation should be preserved when the content is copied and pasted.
+

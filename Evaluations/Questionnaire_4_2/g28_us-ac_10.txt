@@ -1,0 +1,20 @@
+User Story: 
+As an admin, I want to get a quick assessment of whether audio material has been edited before the upload.	
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to upload audio material.
+2. The user should be able to select the audio material to be uploaded.
+3. The user should be able to selec
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to upload audio material.
+2. The user should be able to upload audio material with a maximum file size of 100MB.
+3. The user should be able to upload audio material with a maximum duration of 10 minutes.
+
+Acceptance Criteria (generated from Model #3)
+1. The admin should be able to view the audio material before the upload.
+
+Acceptance Criteria (generated from Model #4)
+1. The admin should be able to view the audio material before the upload.
+2. The admin should be able to view the audio material after the uploa
+

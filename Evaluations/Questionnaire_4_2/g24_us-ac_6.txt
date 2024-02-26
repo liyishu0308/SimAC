@@ -1,0 +1,33 @@
+User Story: 
+As a data reuser, I want to view a DOI for a dataset, so that I can get back to the data in future and I can import the dataset into my referencemanagement software automatically.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to access the DOI for the dataset through the data provider's website or application.
+2. Upon logging into the data provider's website or application, the user should see a clear and prominently displayed section or page that provides the DOI for the dataset.
+3. The user should be able to view the DOI for the dataset in a format that is easy to copy and paste into a reference management software.
+4. The DOI should be clearly labeled and identifiable to avoid confusion with other DOIs displayed on the platform.
+5. The user should be able to view the dataset's title, description, and license information.
+6. The user should be able to view the dataset's citation information.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to access the DOI for the dataset through the data provider's website.
+2. Upon logging into the data provider's website, the user should see a clear and prominently displayed section or page that provides the DOI for the dataset.
+3. The user should be able to view the DOI for the dataset.
+4. The DOI should be clearly labeled and identifiable to avoid confusion with other DOIs displayed on the website.
+5. The DOI should be displayed with appropriate decimal places, rounding rules, and number formatting based on the currency and locale settings.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to view a DOI for a dataset.
+2. The DOI should be clearly displayed and identifiable to avoid confusion with other information displayed on the platform.
+3. The DOI should be displayed in a prominent location on the platform.
+4. The DOI should be displayed in a format that is easily readable and understandable by the user.
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to access the DOI for a dataset through the data provider's website.
+2. The DOI should be clearly displayed and identifiable to avoid confusion with other identifiers or information displayed on the platform.
+3. The DOI should be displayed in a consistent and standardized format, such as a URL or a URI.
+4. The DOI should be displayed in a way that is easy to copy and paste into a reference management software.
+5. The DOI should be displayed in a way that is easy to read and understand.
+6. The DOI should be displayed in a way that is easy to search for and find.
+7. The DOI should be displayed in a way that is easy to share with others.
+8. The DOI should be displayed in a way that is easy to use in a citation.

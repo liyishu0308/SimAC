@@ -1,0 +1,45 @@
+User Story: 
+As a Zooniverse admin, I want to know whether I should interrupt a volunteer with text, an image, or a video.	
+
+Acceptance Criteria (generated from Model #1)
+1. The decision on whether to interrupt a volunteer with text, an image, or a video should be based on the nature and urgency of the information that needs to be communicated.
+2. The system should have a configurable rule or logic that determines the appropriate content type (text, image, or video) based on predefined conditions or triggers.
+3. The decision-making process should consider factors such as the importance of the information, the level of attention required, and the user's current task or activity.
+4. The system should provide an interface or settings page where the Zooniverse admin can configure the rules and conditions for the content type selection.
+5. The system should provide appropriate error handling and display an error message if there is a failure in determining the appropriate content type or delivering the interruption.
+6. The interruption should be displayed or delivered in a visually noticeable and attention-grabbing manner to ensure that the volunteer is alerted to the new information.
+7. The system should log and record the interruptions made to volunteers, including the content type, time, and any user interactions related to the interruption.
+8. The system should provide analytics or reporting features that allow the Zooniverse admin to track the effectiveness and impact of the interruptions.
+
+Acceptance Criteria (generated from Model #2)
+1. The Zooniverse admin should have a dashboard or interface where they can monitor the activities of the volunteers.
+2. The admin should be able to track the progress and behavior of the volunteers in real-time.
+3. The system should analyze the volunteer's activity and determine if intervention is needed.
+4. Based on the analysis, the system should generate recommendations for the type of intervention (text, image, or video) that should be presented to the volunteer.
+5. The admin should be able to view the recommendations and make a decision on whether or not to interrupt the volunteer.
+6. If the admin decides to interrupt the volunteer, the system should deliver the intervention in the chosen format (text, image, or video) to the volunteer's interface.
+7. The system should provide notifications to the admin when interventions are delivered to the volunteers.
+8. The system should track the response and effectiveness of interventions delivered to volunteers, providing insights on the impact of different intervention formats.
+9. The system should have proper monitoring and logging mechanisms to capture any issues or errors related to intervention delivery.
+10. The admin should have the ability to configure the criteria for triggering interventions based on specific volunteer behaviors or progress thresholds.
+
+Acceptance Criteria (generated from Model #3)
+1. The Zooniverse admin should be able to select the type of interruption (text, image, video) from a drop-down menu.
+2. The admin should be able to preview the interruption before it is sent to the volunteer.
+3. The interruption should be sent to the volunteer within a specified timeframe.
+4. The admin should be able to track the volunteer’s response to the interruption.
+5. The admin should be able to view an activity log of all the interruptions sent to the volunteer.
+
+Acceptance Criteria (generated from Model #4)
+1. Zooniverse admin should be able to view the list of volunteers and their current tasks.
+2. Zooniverse admin should be able to select a volunteer to interrupt.
+3. Zooniverse admin should be able to select the type of interruption (text, image, video) for the selected volunteer.
+4. Zooniverse admin should be able to view the volunteer's response to the interruption.
+5. The interruption type should be selected based on the volunteer's current task.
+6. The interruption should be sent to the volunteer within a specific time period.
+7. The interruption should be tested in different browsers and mobile devices.
+8. The interruption should be tested with different network conditions.
+9. The interruption should not disrupt the volunteer's current task.
+10. The interruption should be displayed correctly on different devices and screen sizes.
+11. The interruption should have appropriate field validation, indicating required fields and displaying error messages for missing or invalid inputs.
+

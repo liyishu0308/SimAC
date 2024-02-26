@@ -1,0 +1,25 @@
+User Story:
+As a developer, I want to know what the three initial hypotheses are, so that I can plan work around development of prototypes.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to access the initial hypotheses through the development platform.
+2. The user should be able to view the initial hypotheses in a clear and prominently displayed section or page.
+3. The initial hypotheses should be clearly labeled and identifiable to avoid confusion with other hypotheses displayed on the platform.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to access the initial hypotheses through the credit card provider's mobile application or website.
+2. Upon logging into the credit card account, the user should see a clear and prominently displayed section or page that provides the initial hypotheses.
+3. The user should be able to view the initial hypotheses for the current billing cycle as well as for previous billing cycles.
+4. The user should be able to view "Initial Hypotheses".
+
+Acceptance Criteria (generated from Model #3)
+1. The three initial hypotheses are:
+2. The user will be able to access the platform through a mobile application.
+3. The user will be able to access the platform through a combination of a mobile application and a website.
+4. The user will be able to access the platform through a mobile application and a website.
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to access the initial hypotheses through the product backlog.
+2. The user should be able to view the initial hypotheses in a list format.
+3. The user should be able to view the initial hypotheses in a mind map format.
+

@@ -1,0 +1,20 @@
+User Story: 
+As a user, I want to search content items using automatic speech recognition.	
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to search for content items using the speech recognition feature.
+2. The speech recognition feature should be able to recognize the user's voice and return a list of matching content items.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to search for content items using the speech recognition feature.
+2. The speech recognition feature should be able to recognize the user's speech and return a list of matching content items.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to search for content items using a natural language query.
+2. The user should be able to search for content items using a natural language query that includes multiple words and phrases.
+3. The user should be able to search for content items using a natural language query that includes multiple words and phrases, and that includes a specific date range.
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to search for content items using a natural language query.
+2. The user should be able to search for content items using a natural language query that includes multiple words and phrases.
+3. The user should be able to search for content items using a natural language query that includes multiple words and phrases and that includes a specific word or phrase.

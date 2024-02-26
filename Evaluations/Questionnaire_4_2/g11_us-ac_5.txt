@@ -1,0 +1,35 @@
+User Story:
+As an NSF employee, I want to understand work performed, so that I can understand when and what I can use later.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to access the work performed information through the NSF's mobile application or website.
+2. Upon logging into the NSF account, the user should see a clear and prominently displayed section or page that provides the work performed information.
+3. The user should be able to view the work performed information for the current fiscal year as well as for previous fiscal years.
+4. The work performed information should be clearly labeled and identifiable to avoid confusion with other information displayed on the platform.
+5. The user should be able to view "Work Performed".
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to access the NSF employee's work information through the NSF employee's mobile application or website.
+2. Upon logging into the NSF employee's account, the user should see a clear and prominently displayed section or page that provides the current work information.
+3. The user should be able to view the work information for the current fiscal year as well as for previous fiscal years.
+4. The user should be able to view "Work Performed" and "Work Completed".
+5. The work information should be clearly labeled and identifiable to avoid confusion with other work information displayed on the platform.
+6. The system display Error message if service not responding / timeout.
+7. The work information should be displayed with appropriate decimal places, rounding rules, and number formatting based on the currency and locale settings.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to view the work performed by the NSF employee.
+2. The user should be able to view the work performed by the NSF employee in a clear and organized manner.
+3. The user should be able to view the work performed by the NSF employee in a way that is easy to understand and follow.
+4. The user should be able to view the work performed by the NSF employee in a way that is easy to understand and follow, and that is easy to compare with other work performed by the NSF employee.
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to access the work performed information through the NSF's mobile application or website.
+2. Upon logging into the NSF account, the user should see a clear and prominently displayed section or page that provides the work performed information.
+3. The user should be able to view the work performed information for the current billing cycle as well as for previous billing cycles.
+4. The user should be able to view "Payment Due Date" and "Minimum Payment Due".
+5. The work performed information should be clearly labeled and identifiable to avoid confusion with other balances or amounts displayed on the platform.
+6. The user should be able to view "Available Credit".
+7. The system display Error message if service not responding / timeout.
+8. The work performed information should be displayed with appropriate decimal places, rounding rules, and number formatting based on the currency and locale settings.
+
