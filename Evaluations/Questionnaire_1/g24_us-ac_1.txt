@@ -1,0 +1,57 @@
+User Story: 
+As an academicpublisher, I want to make persistent web links between my articles and underlying datasets, so that my journals can be seen to be filled with robust, high quality research. 
+
+Acceptance Criteria (generated from Model #1)
+1. The system should provide a functionality to create persistent web links between articles and datasets.
+2. The persistent web links should be unique and unchangeable once created.
+3. The persistent web links should be accessible and functional for the lifetime of the articles and datasets.
+4. The persistent web links should direct the users to the corresponding datasets.
+5. The system should ensure that the datasets linked to the articles are of high quality and meet the standards set by the academic publisher.
+6. The system should provide an option to update or remove the persistent web links if needed.
+7. The system should generate an error message if a persistent web link is invalid or broken.
+8. The system should provide an option to export and import persistent web links for backup and migration purposes.
+9. The persistent web links should support different formats of datasets, such as PDF, CSV, and Excel.
+10. The persistent web links should be secure and not accessible to unauthorized users.
+11. The system should notify the users if there are any updates or changes to the linked datasets.
+12. The system should have a mechanism to verify and validate the integrity of the persistent web links regularly to ensure they are not broken or outdated.
+13. The system should have a backup system in place to restore the persistent web links in case of data loss or system failure.
+14. The system should have a release plan for introducing the persistent web links feature.
+15. The persistent web links should be stored securely and protected from unauthorized access.
+
+Acceptance Criteria (generated from Model #2)
+1. The system should have a feature to create persistent web links between articles and underlying datasets.
+2. The web links should be easily accessible and visible to readers of the articles.
+3. When a dataset is linked to an article, the link should be prominently displayed near the relevant section or figure in the article.
+4. The web links should be persistent, meaning that they should remain active and functional even if the location or name of the dataset is changed.
+5. The system should support the ability to update or modify the web links if there are any changes to the underlying datasets.
+6. The system should provide the option to automatically generate web links based on predefined rules or metadata associated with the datasets.
+7. The system should support multiple formats for the web links, such as URLs or QR codes, to accommodate different user preferences and accessibility needs.
+8. The web links should include proper error-handling mechanisms, displaying informative messages to users if the linked datasets are no longer available or accessible.
+9. The system should support version management for the linked datasets, allowing publishers to replace old versions with new versions while still maintaining the link integrity.
+10. The system should provide analytics to track the number of clicks, views, and downloads of the linked datasets, helping the publisher to assess the impact and popularity of the research.
+
+Acceptance Criteria (generated from Model #3)
+1. The system should provide a feature to create persistent web links between articles and underlying datasets.
+2. The persistent web links should be generated automatically and remain consistent even if the location of the dataset changes.
+3. The persistent web links should be publicly accessible and should not require any login or authentication.
+4. The persistent web links should be associated with the specific article and dataset, ensuring accurate linking between the two.
+5. The persistent web links should be easily shareable and should be compatible with various communication channels (e.g., email, social media).
+6. The persistent web links should be visually distinguishable from regular hyperlinks to clearly indicate their purpose.
+7. The persistent web links should be supported by a reliable hosting infrastructure to ensure continuous availability and access.
+8. The persistent web links should be compatible across different devices, operating systems, and web browsers.
+9. The system should track and record usage statistics of the persistent web links to provide analytics on the popularity and impact of the articles and datasets.
+10. The persistent web links should be encrypted and secure to protect sensitive information and maintain data integrity.
+11. The system should support version management of the datasets to handle updates or changes without breaking the persistent web links.
+
+Acceptance Criteria (generated from Model #4)
+1. The system should provide a feature to create persistent web links between articles and underlying datasets.
+2. The persistent web links should be visible and easily accessible from within the article.
+3. Clicking on the persistent web link should redirect the user to the underlying dataset, providing additional information and context.
+4. The persistent web links should be reliable and should consistently direct the user to the correct dataset, even if the dataset has been moved or renamed.
+5. The persistent web links should conform to industry standards for URL structure and should be user-friendly and easy to understand.
+6. The system should support creating and managing multiple persistent web links for each article, allowing for flexibility and multiple references to different datasets.
+7. The persistent web links should be secure and only accessible to authorized users, ensuring the integrity and confidentiality of the linked datasets.
+8. The system should track and log the usage of persistent web links, providing metrics and insights into the popularity and impact of the linked datasets.
+9. The system should provide the ability to automatically update the persistent web links in case of changes to the underlying datasets (e.g., if the dataset is updated or replaced).
+10. The persistent web links should be easily shareable via email or social media platforms, allowing researchers to promote their work and datasets.
+

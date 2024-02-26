@@ -1,0 +1,57 @@
+User Story: 
+As a depositor, I want to allow my collaborators privileged access to datasets, so that we continue to have a productive relationship.
+
+Acceptance Criteria (generated from Model #1)
+1. The system should allow depositors to add collaborators to their datasets.
+2. Collaborators should be able to access and view the datasets shared with them by the depositor.
+3. The system should provide the ability for depositors to set different levels of access privilege for each collaborator.
+4. The system should send notifications to collaborators when they have been added to a dataset by a depositor.
+5. Depositers should be able to revoke access privileges for any collaborator at any time.
+6. Collaborators should no longer be able to access a dataset after their access privileges have been revoked by the depositor.
+7. The system should provide a log of all access activity for each dataset, including when collaborators were added or removed.
+8. Depositers should be able to easily manage their list of collaborators and their access privileges.
+9. The system should enforce secure authentication measures to ensure that only authorized collaborators can access the datasets.
+10. The system should prevent collaborators from modifying or deleting datasets without appropriate access privileges.
+11. When a collaborator attempts to access a dataset they do not have access to, the system should display an appropriate access denied message.
+12. The system should enforce strong password requirements for all user accounts, including depositors and collaborators.
+13. The system should automatically expire access privileges for collaborators if they have not been active for a certain period of time.
+14. The system should provide a way for depositors to easily track and manage access requests from potential collaborators.
+15. Collaborators should be able to request access to a dataset if they have previously been denied access.
+16. Collaborators should receive notifications when their access privileges for a dataset are modified by the depositor.
+17. There should be a release plan for the implementation of this feature to ensure timely delivery.
+18. The budget for implementing this feature should be reviewed and approved by the appropriate stakeholders.
+
+Acceptance Criteria (generated from Model #2)
+1. The depositor should be able to invite collaborators to access the datasets.
+2. The depositor should have the ability to define the level of access privileges for each collaborator, such as read-only, read-write, or admin access.
+3. The system should send an invitation email to the collaborator with a unique link to accept the invitation and create an account if necessary.
+4. Collaborators should be able to log in with their credentials and access the datasets based on the assigned access privileges.
+5. The depositor should have the capability to revoke or modify access privileges for collaborators at any time.
+6. The system should provide a log or audit trail to track the changes in access privileges for collaborators.
+7. Collaborators should be able to navigate and search for datasets easily within their assigned access privileges.
+8. The system should ensure that data security and privacy measures are in place to protect the datasets from unauthorized access.
+9. The system should enforce strong password requirements and provide a secure mechanism for password resetting and account recovery.
+
+Acceptance Criteria (generated from Model #3)
+1. The depositor should have the ability to grant access to specific datasets to selected collaborators.
+2. The system should provide a user interface for the depositor to manage and modify the privileges of the collaborators.
+3. The depositor should be able to assign different levels of access privileges to the collaborators, such as read-only access or read-write access.
+4. The collaborators should receive notifications or alerts when their access privileges are modified or when new datasets are shared with them.
+5. The system should enforce access control measures to prevent unauthorized access to datasets by collaborators.
+6. The system should provide the option for granular permission settings, allowing the depositor to define access at the file or folder level.
+7. The system should have a backup and recovery mechanism in place to protect the datasets in case of accidental loss or corruption.
+8. The system should have the ability to revoke access privileges for a collaborator if necessary.
+9. The system should allow the depositor to set restrictions on specific datasets, such as restricting access based on time or location.
+
+Acceptance Criteria (generated from Model #4)
+1. The system should provide a feature to allow the depositor to grant privileged access to datasets to their collaborators.
+2. The items that can be granted privileged access should be clearly identified and selectable by the depositor.
+3. The system should provide the option to grant different levels of privileged access, such as read-only or read-write access, for each dataset.
+4. The collaborators should receive a notification or invitation to access the dataset once privileged access has been granted.
+5. The system should provide a secure mechanism for the collaborators to authenticate and access the dataset.
+6. The system should track and log the actions of the collaborators on the dataset, such as modifications or downloads.
+7. The depositor should be able to revoke or modify the privileged access of the collaborators at any time.
+8. The system should enforce appropriate data security measures, such as encryption, to protect the dataset from unauthorized access or breaches.
+9. The system should have mechanisms in place to handle any conflicts or concurrency issues that may arise when multiple collaborators have access to the same dataset.
+10. The system should provide an option for the depositor to set an expiration date for the privileged access, after which the access will be automatically revoked.
+
