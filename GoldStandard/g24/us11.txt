@@ -1,0 +1,12 @@
+User Story: 
+As a depositor, I want to have metadata automatically filled from other University systems and remembered from previous deposits, so that I don't have to waste time reentering the same information.
+
+Acceptance Criteria:
+1. The system should provide the option of "Retrieve data" when the depositor filling the forms.
+2. The depositor should be able to choose retrieve from other universities or from previous deposits.
+3. Once options selected, the system should retrieve metadata automatically from other University systems or existing systems.
+4. The automatically retrieved metadata should be mapped and automatically filled in the deposit form.
+5. For other information that cannot be automatically retrieved, it should be highlighted and request the depositor to enter the details manually.
+6. The pre-filled metadata should be editable in case the depositor wants to make changes or updates.
+7. The depositor should be able to remember current deposit for future retrieve.
+8. The authentication process from other universities should be secure, following the agreed standard.

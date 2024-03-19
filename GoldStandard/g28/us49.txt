@@ -1,0 +1,12 @@
+User Story: 
+As a Zooniverse admin, I want to know whether I should interrupt a volunteer with text, an image, or a video.	
+
+Acceptance Criteria:
+1. The Zooniverse admin should be able to access a dashboard to review the recents activities of the volunteers.
+2. The dashboard should provide the analysis result of each volunteers' performance.
+3. The Zooniverse admin should be able to view the standard of interrupting the volunteer.
+4. The Zooniverse admin should have option to interrupt the volunteer following the standard.
+5. The Zooniverse admin should have option to choose what way to interrupt the volunteer (text, image, or video).
+6. Once the Zooniverse performs the interruption, the volunteering will receive the notification with defined format (text, image, or video).
+7. The system should provide interruption recommendation in the analysis results for the volunteers in the dashboard.
+8. The system should provide interruption progress to the admin user.

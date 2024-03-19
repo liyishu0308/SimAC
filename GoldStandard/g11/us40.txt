@@ -1,0 +1,11 @@
+User Story: 
+As a developer, I want to know what the three initial hypotheses are, so that I can plan work around development of prototypes.
+
+Acceptance Criteria:
+1. The three initial hypotheses should be clearly documented.
+2. The developer should be able to access the three initial hypothesis.
+3. The system should provide Q&A session to assist with the developer to understand the hypotheses.
+4. The hypothese should be clearly stated with problem statement, proposed solution, and expected outcome. If possible, examples should be provided.
+5. The hypotheses should be prioritized.
+6. A brief overview of the expected prototype for each hypothesis should be provided, including key features, functionalities, or user interactions that need to be explored. 
+

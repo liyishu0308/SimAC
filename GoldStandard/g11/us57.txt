@@ -1,0 +1,14 @@
+User Story: 
+As a content editor, I want to be able to add videos from Brightcove.
+
+Acceptance Criteria:
+1. The "Add Video" buttton should be displayed for the content editor.
+2. When adding video, there should be an option of "Add from Brightcove".
+3. The user can search using keywords, titles, or topics when selecting "Add from Brigtcove".
+4. The relevant searching results should be displayed.
+5. The user can add one of searching results to integrate into the system.
+6. When the video is added, the system should embed the video player.
+7. When adding the video failed, the error message should correctly displayed (e.g., exceeding the size, unsupported format, and others).
+8. If searching results does not contained the keyword provided, appropriate message should be displayed (0 video found from Brightcove).
+9. The videos added from Brightcove should be correctly labelled.
+

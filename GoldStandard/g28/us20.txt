@@ -1,0 +1,11 @@
+User Story: 
+As an admin, I want to filter and rank videos based on A/V quality aspects.	
+
+Acceptance Criteria:
+1. The system should provide the filter and ranking options to admin user when viewing the lists of videos.
+2. In the fileter options, the admin should be able to select A/V quality related conditions (minimum resolution, bitrate range, and specific audio quality parameters).
+3. The admin user should be able to select multiple filter options. 
+4. In the ranking options, the admin user should be able to select the ranking order: either in ascending or descending order.
+5. The filtering and ranking should be correctly displayed with different combinations of filter options.
+6. The total number of filtering results in each page should be X videos. For results more than X result, they should be listed in multiple pages.
+7. The system should provide options to restore the initial orader.

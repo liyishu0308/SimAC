@@ -1,0 +1,15 @@
+User Story: 
+As a user, I want to search and discover music or ringback tones similar to a given music video based on content similarity.	
+
+Acceptance Criteria:
+1. The user should be able to iput music videos in the search.
+2. The search results for the given music videos should be music or ringback tones.
+3. The search results should be returned based on the content similarity on genre, tempo, beat, and instrumental arragenment.
+4. The search results should be listed with similarity percentages.
+5. The search results could be sorted by different orders: similarity, release date, popularity, rating.
+6. The search results could be filtered by different conditions: similarity, release date.
+7. Proper search handling mechnism, such as partial match.
+8. For failuare search results, propser message should be prompt.
+9. The system should provide a preview option for users to listen to a snippet of the results.
+10. When there is large amount of similar results being returned, the display of the results should be no significant delay or latency.
+11. The results should be displayed by pages, for each page consist of X results. The number of total results and pages should be correctly displayed.

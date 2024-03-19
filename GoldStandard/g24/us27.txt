@@ -1,0 +1,11 @@
+User Story: 
+As a data reuser, I want to get a persistent URL for a dataset, so that I can get back to the data in future.
+
+Acceptance Criteria:
+1. Each dataset in the repository is assigned a unique and persistent URL that does not change over time, ensuring permanent access to the dataset’s landing page.
+2. The persistent URL should be displayed on the dataset's landing page and any related search results or metadata pages.
+3. User should be able to copy and share the URL.
+4. Clicking on the persistent URL should direct the user to the corresponding dataset.
+5. The persistent URL should correctly associate with the dataset’s metadata, including title, author(s), publication date, and any other relevant information, to support effective data discovery and retrieval.
+6. The system should have option for the user to mannual update the URL.
+7. The persistent URL should have version management, recording the history of dataset update.

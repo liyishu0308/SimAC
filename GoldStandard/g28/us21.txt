@@ -1,0 +1,12 @@
+User Story: 
+As an admin, I want to get a quick assessment of whether audio material has been edited before the upload.	
+
+Acceptance Criteria:
+1. The system should have an option for admin user to check whether the audio material has been edited or not before uploading.
+2. The assessment results should be returned to the admin user and will be displayed with summarized description (original size, editied percentage)
+3. If the audio meterial is editied, the uploaded audio will be attached as a tag as edited.
+4. The asseessment results should be displayed with high level of accuracy.
+5. The admin user should be able to calibrate the result if the assessment is incorrect (e.g., removing the edited tag from the audio material). 
+6. When the assessment result is prompt to the admin user, the admin user can choose to continue upload or cancel the upload process.
+7. If the audio meterial cannot be assessed, the system should prompt message to the admin user to instruct the admin user to try again or assess another file.
+8. The system should allow for batch processing of multiple audio files, enabling admins to get assessments on several uploads simultaneously.

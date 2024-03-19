@@ -1,0 +1,12 @@
+User Story: 
+As a depositor, I want to deposit arbitrarily large files, so that I am not limited in what files I can and cannot deposit.
+
+Acceptance Criteria:
+1. The system should allow the depositor to upload files without size limitation.
+2. The system should support different formats of file upload.
+3. The progress of the upload process and estimated remaining time should be displayed.
+4. The depositor can upload multiple files in one time.
+5. The depositor can select the files for uploading.
+6. The depositor can drag and drop the files for uploading.
+7. The upload process should be resumed if it is interrupted by network issues.
+8. The system should be optimized for the performance of uploading and downloading large files.

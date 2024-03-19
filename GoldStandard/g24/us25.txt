@@ -1,0 +1,11 @@
+User Story: 
+As a data reuser, I want to view an example citation for a dataset, so that I can reference it correctly.
+
+Acceptance Criteria:
+1. In the dataset description, the example citation information is listed.
+2. The user is able to view and copy the ciation information.
+3. The citation examples should be displayed different citation formats: APA, MLA, Chicago.
+4. The citation examples could be downloaded as a file that can be imported in different reference management platform, such as EndNote and BibTex.
+5. The user is able to customize the citation format based on their specific requirements, with the system updating the example citation accordingly.
+6. Each format of citation example includes the essential information: dataset title, author(s),  publication year, version (if applicable), repository name, and a persistent identifier (e.g., DOI).
+7. Citations are dynamically generated to reflect the most current version of the dataset and include a date of access, ensuring accuracy and relevance.

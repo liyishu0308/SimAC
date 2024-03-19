@@ -1,0 +1,14 @@
+User Story: 
+As a user, I want to search content items using automatic speech recognition.	
+
+Acceptance Criteria:
+1. The system should have a voice activation feature (e.g., a microphone icon) within the search bar that users can easily activate to start the speech recognition process.
+2. The system should provide visual and/or auditory feedback to users indicating that their voice is being captured and processed (e.g., sound wave animation, processing indicator).
+3. The automatic speech recognition system should correctly convert the user's spoken words into text in resonable response time.
+4. If the spoken words cannot be interpreted by the automatic speech recognition system, the system should provide a feedback that request the user to speak in a clearer way.
+5. The search result should be relevant to the interpreted text.
+6. The speech recognition feature is compatible and functional across various devices and platforms (e.g., desktops, smartphones, tablets) used by the target audience.
+7. Implement strong privacy measures and data security protocols to protect users’ voice recordings and any generated text, in compliance with relevant data protection laws.
+8. The speech recognition system should support language as settings of the application. If not, the system should clearly instruct the user what lanauge is supported.
+9. The speech recognition system should be able to handle the background noices.
+10. They system should provide options for user to cutomize the searching engine.

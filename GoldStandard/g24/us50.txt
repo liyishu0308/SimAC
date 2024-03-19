@@ -1,0 +1,12 @@
+User Story: 
+As an academicpublisher, I want to make persistent web links between my articles and underlying datasets, so that my journals can be seen to be filled with robust, high quality research. 
+
+Acceptance Criteria:
+1. The system should provide an interface that allow user to create persistent web links between articles and underlying datasets.
+2. The user is able to manage the web links: create, edit, delete, re-link.
+3. The persistent web links should be automatically generated following the specific format (such as DOI-to-DOI).
+4. The persistent links to datasets are prominently displayed within articles, in both online and print formats if applicable.
+5. The links should be copied and search.
+6. When the articles or the datasets are searched, the web links between them will be displayed as part of the description.
+7. When clicking the links, it will correctly direct to correct pages (the article or the dataset).
+8. If the dataset version is updated, the links should be automatically updated.
