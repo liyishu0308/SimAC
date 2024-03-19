@@ -1,0 +1,37 @@
+User Story: 
+As a depositor, I want to allow others to deposit on my behalf, so that I can delegate research data management tasks appropriately.
+
+Acceptance Criteria (generated from Model #1)
+1. The depositor should be able to invite and authorize others to deposit on their behalf.
+2. The user should be able to specify the level of access and permissions granted to the authorized individuals.
+3. The delegated individuals should be able to access and deposit research data using the authorized depositor's account.
+4. The system should provide a clear audit trail of actions performed by both the depositor and the authorized individuals.
+5. The depositor should have the ability to revoke access and permissions granted to any delegated individuals.
+
+Acceptance Criteria (generated from Model #2)
+1. The depositor should be able to designate individuals or teams as delegates who are authorized to deposit research data on their behalf.
+2. The depositor should be able to specify the level of access and permissions for each delegate, such as the ability to add, edit, or delete data.
+3. Delegates should have their own unique login credentials to access the research data management system.
+4. The system should provide a clear and intuitive interface for the depositor to manage and modify their list of delegates.
+5. Delegates should only be able to access and manage the research data that they have been authorized for.
+6. When a delegate makes a deposit on behalf of the depositor, the system should log and track the activity, including the delegate's details and the date/time of the deposit.
+7. The depositor should have the ability to revoke delegate access at any time.
+8. The system should provide clear instructions and documentation to assist the depositor in delegating research data management tasks appropriately.
+9. Proper authentication and authorization mechanisms should be in place to ensure that only authorized delegates are allowed to access and perform actions on behalf of the depositor.
+10. The system should handle concurrency issues and prevent conflicts when multiple delegates try to access or modify the same research data simultaneously.
+
+Acceptance Criteria (generated from Model #3)
+1. The depositor should be able to grant permission to others to deposit on their behalf.
+2. The user interface should provide an option to delegate deposit rights to other users.
+3. The depositor should be able to specify the level of access and permissions that the delegates have, such as read-only access or full deposit rights.
+4. The delegated users should be able to access the depositor's account and perform deposit tasks on their behalf.
+5. The system should maintain an audit trail of all deposit activities performed by the delegates.
+6. The depositor should be able to revoke the delegation rights at any time.
+7. The delegated users should receive notifications about their newly assigned deposit tasks.
+8. The system should provide a notification or reminder to the delegator when a delegated task is completed.
+9. Delegated users should only have access to specific deposit tasks and should not have access to other sensitive depositor information.
+10. The system should handle concurrent access and updates by multiple delegated users without data conflicts or inconsistencies.
+11. The delegated deposit tasks should be displayed with clear and accurate information, including task details, deadlines, and status.
+12. Error handling should be in place to handle any issues that may arise during the delegation process, such as invalid user permissions or system failures.
+13. The system should enforce authentication and authorization mechanisms to ensure that only authorized delegates can access and perform deposit tasks.
+

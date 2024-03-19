@@ -1,0 +1,33 @@
+User Story: 
+As a depositor, I want to have a user interface that is familiar to me, so that I feel like all the University systems are joined up.
+
+Acceptance Criteria (generated from Model #1)
+1. The user interface should have a consistent layout and navigation across all university systems.
+2. The user interface should utilize common design patterns and conventions that are familiar to the target audience.
+3. The user interface should have a similar look and feel to the university's branding and visual identity.
+4. The user interface should provide clear and intuitive labels, icons, and controls to facilitate easy navigation and interaction.
+5. The user interface should maintain a cohesive user experience by following established usability principles.
+6. The user interface should be responsive and adaptive, ensuring compatibility across different devices and screen sizes.
+7. The user interface should limit the learning curve for users familiar with other university systems, enabling them to quickly navigate and complete tasks.
+8. The user interface should provide seamless integration and data flow between different university systems, reducing the need for duplicate data entry.
+
+Acceptance Criteria (generated from Model #2)
+1. The user interface of the system should follow standard design patterns and guidelines that are familiar to the target users.
+2. The colors, typography, and overall visual design should align with the existing University branding and design language.
+3. The terminology used throughout the user interface should be consistent with the language commonly used in the University context, avoiding technical jargon or unfamiliar terms.
+4. The user interface should adapt to different devices and screen sizes, providing a responsive design that works well on desktop computers, tablets, and mobile devices.
+5. The system should support accessibility standards, such as providing alternative text for images and ensuring proper color contrast for text and interactive elements.
+6. The user interface should integrate with other University systems seamlessly, allowing the depositor to easily transition between different systems without having to relearn new interfaces or login multiple times.
+7. The system should be compatible with commonly used web browsers and ensure consistent user interface rendering across different browser versions.
+
+Acceptance Criteria (generated from Model #3)
+1. The user interface should follow the university's branding guidelines to ensure consistency with other university systems.
+2. The navigation and layout should be intuitive and familiar to depositors, taking into consideration common design patterns and conventions in the industry.
+3. The terminology and labels used throughout the user interface should align with the language and vocabulary commonly used by depositors in their day-to-day activities.
+4. The user interface should provide clear and concise instructions or tooltips to guide depositors through different processes or tasks.
+5. The user interface should have a cohesive design across different pages or screens, maintaining a sense of continuity and coherence in the overall experience.
+6. The user interface should be accessible and support assistive technologies, adhering to applicable accessibility standards and guidelines.
+7. The user interface should be responsive and compatible with different devices and screen sizes, ensuring a consistent experience for depositors across desktop, tablet, and mobile platforms.
+8. The user interface should support single sign-on or integrated authentication for seamless access across different university systems.
+9. The user interface should have seamless integration with other University systems, such as single sign-on functionality and consistent data presentation.
+

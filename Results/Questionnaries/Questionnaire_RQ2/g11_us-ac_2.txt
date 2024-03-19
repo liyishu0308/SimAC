@@ -1,0 +1,35 @@
+User Story: 
+As a potential research participant, I want to learn about the research and leave my contact information.
+
+Acceptance Criteria (generated from Model #1)
+1. The website should have a dedicated page or section that provides detailed information about the research project.
+2. The information should include the purpose, goals, methodology, and potential benefits of participating in the research.
+3. The user should be able to easily navigate to the contact form or section from the research information page.
+4. The contact form should include fields for the user to input their name, email address, and any additional relevant information.
+5. The contact form should have validation to ensure that all required fields are filled out correctly.
+6. After submitting the contact form, the user should receive a confirmation message indicating that their information has been successfully submitted.
+7. The user's contact information should be securely stored and only used for the purpose of contacting them regarding the research.
+8. The website should provide clear information on how the user's data will be handled and protected.
+9. The website should provide contact information for the research team or organization in case the user has any questions or concerns.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to access the research information page from the main website or designated landing page.
+2. The research information page should clearly explain the purpose and objectives of the study, the expected duration, and any specific requirements or eligibility criteria for participants.
+3. The user should be able to read testimonials or case studies from previous participants, if available, to understand the potential benefits and outcomes of participation.
+4. The user should be able to leave their contact information by filling out a form on the research information page.
+5. The contact form should include fields for the user's name, email address, and optionally, phone number and any additional comments or questions.
+6. Upon submitting the contact form, the user should receive an acknowledgement message confirming that their information has been submitted successfully.
+7. The system should send an automated email to the user's provided email address, thanking them for their interest and providing further instructions or next steps for participation.
+8. The contact information provided by the user should be securely stored and protected in compliance with relevant data protection regulations.
+9. The system should validate the email address format to ensure it is in the correct format before submitting the form.
+10. The research information page should be optimized for SEO to ensure it is easily discoverable by search engines.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to access a page or section specifically dedicated to providing information about the research project.
+2. The page should include a clear and concise description of the research, including its purpose, methodology, and potential benefits.
+3. The user should be able to leave their contact information, such as name and email address, through a form or input fields provided on the page.
+4. The form or input fields should include appropriate validation to ensure the accuracy and completeness of the information provided.
+5. Upon submitting their contact information, the user should receive a confirmation message indicating that their information has been recorded.
+6. Verify that the confirmation message is displayed correctly and provides sufficient information about the user's contact information being recorded.
+7. The page should provide information on the privacy and data handling practices, assuring the user that their information will be securely stored and not shared with third parties without consent.
+
