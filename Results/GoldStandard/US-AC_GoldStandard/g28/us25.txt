@@ -1,0 +1,11 @@
+User Story: 
+As an admin, I want to prefilter the content using search on high­level asset information such as metadata and tags either recognized by the system of provided by the user.	
+
+Acceptance Criteria:
+1. The system should provide advanced search options that allow admins to filter content by various metadata fields and tags.
+2. The system should provide the system-provided metadata and tags for filetering.
+3. The system should allow the manual input metadata and tags for filtering.
+4. The search results should be displayed based on the filter criteria correctly.
+5. The search results should be returned in real-time.
+6. The search results should provide relevance rates for each result.
+7. The admin user should be able to customize the search keywords, such as frequently used tags.

@@ -1,0 +1,14 @@
+User Story: 
+As a user, I want to view thumbnail sequences of video segments.	
+
+Acceptance Criteria:
+1. The system should automatically generate thumbnails for distinct segments of the video at regular intervals.
+2. Each video segment should be displayed by a distinct thumbnail image.
+3. The user should be able to switch to view video segments by thumbnail.
+4. The thumbnail sequences should be correctly displayed following the rules customized chronological or alphabetical.
+5. The display of thumbnail sequences is adaptive and responsive, ensuring a seamless viewing experience across different devices and screen sizes.
+6. When clicking the thumbnail, it will correctly navigate to the video segment, and the video should be displayed promptly without significantly affecting the overall page load times or the streaming performance of the video.
+7. The system should allow user to customize the thumbnail sequence settings (interval, rules of displayed sequence, the number of thumbnails shown, layout options).
+8. The system should allow user to add description for the thumbnails.
+9. When hovering over a thumbnail, display a tooltip or overlay with additional information about the video segment, such as the timestamp, duration of the segment, or a brief description, if available.
+10. The thumbnail sequence should support filtering, sorting, and searching.

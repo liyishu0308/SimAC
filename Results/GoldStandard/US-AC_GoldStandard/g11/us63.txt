@@ -1,0 +1,13 @@
+User Story: 
+As a potential research participant, I want to learn about the research and leave my contact information.
+
+Acceptance Criteria:
+1. The user should be able to access the research project home page.
+2. The home page should include the details of the project: title, funding, objectives, abstract, methodoloty, duration, etc.
+3. The "Add Participant Information" should be available to be access by the participant of the project.
+4. The participant should be able to add details of his/her own contact information: name, email address, and phone number.
+5. When adding the contact information, if the mandatory fields are blank, the system will prompt error message that "Please fill in the mandatory fields".
+6. The mandatory fields will be highlighted with "*" after the field name.
+7. When adding the contact information successfully, the system will pormpt message "Your contact information have been added".
+8. After adding the contact information successfully, the "Add Participant Information" will be updated as "Update Participant Information" and displayed for the participant.
+9. When adding the contact information successfully, the system will send a notification email to the researcher participant.

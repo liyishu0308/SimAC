@@ -1,0 +1,13 @@
+User Story: 
+As a VisualDesigner, I want to create a moodboard to aid with visual design concepts for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+
+Acceptance Criteria:
+1. The Visual Designer should be able to access the moodboard.
+2. The Visual Designer can create and edit the moodboard.
+3. When creating the moodboard, the user can upload text and images to demonstrate the visual design concepts.
+4. The user should be able to rearrange the text and images, update the font size and color, showcasing different visual elements and layouts.
+5. The moodboard should support share function. 
+6. When eiditing the mooodboard, the user can update the text and images, delete or replace the images, or re-order the images to show the design concepts.
+7. Error should be displayed when inapproriate images are uploaded.
+8. The updates of mooodboard can be displayed in real-time for discussion with stakeholders.
+9. The Visual Designer can tag the moodboard with specific topic discussion.

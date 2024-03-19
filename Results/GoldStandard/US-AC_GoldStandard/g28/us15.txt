@@ -1,0 +1,14 @@
+User Story: 
+As a user, I want to take a picture or upload an image, so that I am recommended with videos related to that picture or image.	
+
+Acceptance Criteria:
+1. The system should provide an opiton for users to upload an image.
+2. The user should be able to upload the image via loading image from the device, or taking a picture through the camera.
+3. Once the image is uploaded, the recommendation engine should analyze the image recognition system with a database of videos, and automatically recommend videos that are related to the content identified in the image.
+4. The recommened videos should be relevent to the content of the picture.
+5. The user should be able to view the list of the recommended videos with breif description (title, name, source).
+6. The user should be able to click and view the selected videos.
+7. In the upload boxes, clear instruction should be provided: the user can select from device, or drag and drop the image, or take photo from the camera.
+8. The system should allow to handle upload images in various format (JPEG, PNG, RAW).
+9. The user should be provided an option to rate the relevance of the recommendation.
+10. The user should be provided an option to switch another set of the recommended videos.

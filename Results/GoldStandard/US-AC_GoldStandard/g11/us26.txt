@@ -1,0 +1,12 @@
+User Story: 
+As an NSF employee, I want to understand work performed, so that I can understand when and what I can use later.
+
+Acceptance Criteria:
+1. The system should list the detailed work performed by the NSF employee.
+2. The description of the work should be documented: date, timeline, participants, and summary.
+3. The step by step process of the work should be documented.
+4. The work should be easily to split as small tasks, which could be assigned to different employees.
+5. The history of the update of the work should be clearly documented. And the version of the work description or changes should be located easily.
+6. The system should send the notification to remind the assigned employees.
+7. The progress of the work should be displayed clearly.
+8. The system should be provide Q&A session to allow NSF employee to ask questions and get clarifications on the task assigned.

@@ -1,0 +1,10 @@
+User Story: 
+As a depositor, I want to have a user interface that is familiar to me, so that I feel like all the University systems are joined up.
+
+Acceptance Criteria:
+1. The user interface must adhere the university's branding guidelines, including the use of logos, color schemes, typography, and other design elements, to ensure visual consistency with other university systems.
+2. The navigation and layout of user interface should follow the structure and user flow of other universities.
+3. The user interface should include clear instructions, tooltips and help sections.
+4. The design across all pages should be cosistent.
+5. The user interface should be compatitable when being displayed in different devices (PC, tablet, mobile web page).
+6. The mobile interface should consistent with the overall design of webpage design.
