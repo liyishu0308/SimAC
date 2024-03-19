@@ -1,0 +1,52 @@
+User Story: 
+As an academicpublisher, I want to make persistent web links between my articles and underlying datasets, so that my journals can be seen to be filled with robust, high quality research. 
+
+Acceptance Criteria (generated from Model #1)
+1. The system should provide a functionality to create persistent web links between articles and underlying datasets.
+2. The persistent web links should be unique and permanent, ensuring that they do not change or become obsolete over time.
+3. The persistent web links should be easily accessible and visible within the article, allowing readers to easily navigate to the underlying datasets.
+4. The persistent web links should be clickable and direct the user to the specific dataset mentioned in the article.
+5. The system should validate that the dataset being linked actually exists and is accessible before creating the persistent web link.
+6. The persistent web links should be customizable, allowing the publisher to define the format and naming convention of the links.
+7. The persistent web links should be securely stored and encrypted to protect the integrity and accessibility of the linked datasets.
+8. The system should track and log any changes or updates made to the persistent web links, providing an audit trail for reference.
+9. The persistent web links should be compatible with different web browsers and devices, ensuring a seamless user experience for readers.
+10. The system should provide an option to easily remove or update the persistent web links if needed in case of changes or corrections to the article or dataset.
+
+Acceptance Criteria (generated from Model #2)
+1. The system should provide a feature to create persistent web links between articles and underlying datasets.
+2. The persistent web links should be generated automatically and remain consistent even if the location of the dataset changes.
+3. The persistent web links should be publicly accessible and should not require any login or authentication.
+4. The persistent web links should be associated with the specific article and dataset, ensuring accurate linking between the two.
+5. The persistent web links should be easily shareable and should be compatible with various communication channels (e.g., email, social media).
+6. The persistent web links should be visually distinguishable from regular hyperlinks to clearly indicate their purpose.
+7. The persistent web links should be supported by a reliable hosting infrastructure to ensure continuous availability and access.
+8. The persistent web links should be compatible across different devices, operating systems, and web browsers.
+9. The system should track and record usage statistics of the persistent web links to provide analytics on the popularity and impact of the articles and datasets.
+10. The persistent web links should be encrypted and secure to protect sensitive information and maintain data integrity.
+11. The system should support version management of the datasets to handle updates or changes without breaking the persistent web links.
+
+Acceptance Criteria (generated from Model #3)
+1. The academic publisher must be able to create a permanent link between an article and an underlying dataset.
+2. The link should be displayed prominently on the article page.
+3. The link should direct users to the dataset's page.
+4. The link should function properly across all major browsers.
+5. The link must be secure and not be accessible to unauthorized parties.
+6. The link should be persistent and not be changed or removed without explicit authorization.
+7. The link should be clearly visible and labeled.
+8. The link should be clickable for easy access to the dataset.
+9. The link should be valid for the lifetime of the article.
+10. The performance of the link should be monitored regularly to ensure its reliability.
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to link an article to an existing dataset.
+2. The link between the article and the dataset should be persistent and not be broken.
+3. The link should be visible on the article page and the dataset page.
+4. The link should be visible to all users.
+5. The linked dataset should be searchable by keywords.
+6. The link should be securely encrypted and protected from malicious access.
+7. The link should be automatically updated when the dataset is modified.
+8. The linked dataset should be securely stored and kept up to date.
+9. The linked dataset should be version controlled.
+10. The linked dataset should be backed up regularly.
+

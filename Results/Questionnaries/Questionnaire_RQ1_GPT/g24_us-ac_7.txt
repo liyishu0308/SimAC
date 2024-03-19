@@ -1,0 +1,42 @@
+User Story: 
+As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
+
+Acceptance Criteria (generated from Model #1)
+1. The system should ensure that all data stored in the application remains intact and unaltered over time.
+2. The application should use established and reliable data storage technologies that provide data integrity guarantees, such as checksums or cryptographic hashes.
+3. When data is retrieved from storage, the system should verify its integrity using the established integrity mechanisms.
+4. The application should have regular backup procedures in place to protect against data loss or corruption.
+5. The system should have appropriate error handling and notification mechanisms in case of data integrity failures.
+6. The application should provide an audit trail or logs that capture any modifications or changes made to the data, along with timestamps and user information.
+7. The system should have appropriate access controls and permission settings to prevent unauthorized modifications to the data.
+8. The application should comply with industry-standard data archival practices and guidelines to meet funder requirements for long-term data preservation.
+9. The system should have a data restoration process in place to ensure that previous versions of data can be recovered if needed.
+10. Regular integrity checks or audits should be performed on the stored data to identify and rectify any potential integrity issues.
+
+Acceptance Criteria (generated from Model #2)
+1. All data stored in the system should be protected against accidental loss, corruption, or unauthorized modification.
+2. The system should provide mechanisms to ensure the integrity of data during storage, transmission, and retrieval processes.
+3. Data backups should be performed regularly to enable data recovery in case of any failures or disasters.
+4. The system should implement access controls to prevent unauthorized access or modifications to the data.
+5. The system should have a version control mechanism to track and manage changes made to the data over time.
+6. The system should comply with industry standards and best practices for data integrity and archival, such as checksum verification and long-term data preservation.
+
+Acceptance Criteria (generated from Model #3)
+1. The system should store the data in a secure and reliable storage system.
+2. Data should be backed up regularly in order to prevent data loss in case of system failure.
+3. Data should be encrypted while stored and in transit.
+4. Data should be accessible only with the proper authentication credentials.
+5. The system should provide an audit trail for all data access and modification activities.
+6. The system should have a version control system for data to ensure data integrity.
+7. The system should provide a way to restore data to a previous version if necessary.
+
+Acceptance Criteria (generated from Model #4)
+1. Data should be stored in a secure format, such as encrypted files.
+2. Data should be backed up regularly and stored on a separate system from the main system.
+3. Data should be stored in accordance with the relevant data laws and regulations.
+4. Data should be stored in a way that allows for easy retrieval and access.
+5. The system should have a data integrity check mechanism to ensure data accuracy and completeness.
+6. Data should be stored in a way that allows for quick recovery in case of system failure or data corruption.
+7. The system should have a logging system to track user activities.
+8. The system should have a mechanism to ensure data is not tampered with or modified without authorization.
+
