@@ -1,0 +1,27 @@
+User Story: 
+As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
+
+Acceptance Criteria (generated from Model #1)
+1. The data should be stored in a secure and reliable manner.
+2. The data should be stored in a way that is easily accessible and retrievable.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to access the deposit information through the deposit provider's mobile application or website.
+2. Upon logging into the deposit account, the user should see a clear and prominently displayed section or page that provides the current deposit information.
+3. The user should be able to view the deposit information for the current deposit as well as for previous deposits.
+4. The user should be able to view "Deposit Date" and "Deposit Amount".
+5. The deposit information should be clearly labeled and identifiable to avoid confusion with other deposits or amounts displayed on the platform.
+6. The user should be able to view "Deposit Status".
+7. The deposit information should be displayed with appropriate decimal places, rounding rules, and number formatting based on the currency and locale settings.
+
+Acceptance Criteria (generated from Model #3)
+1. The depositor should be able to create a deposit record with a unique identifier.
+2. The deposit record should be created with the correct data.
+3. The deposit record should be created with the correct data size.
+
+Acceptance Criteria (generated from Model #4)
+1. The data should be stored in a secure and reliable manner.
+2. The data should be stored in a way that allows for easy retrieval and analysis.
+3. The data should be stored in a way that allows for easy integration with other systems.
+4. The data should be stored in a way that allows for easy access control and security.
+

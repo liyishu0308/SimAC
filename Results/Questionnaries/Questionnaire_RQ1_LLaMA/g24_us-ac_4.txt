@@ -1,0 +1,33 @@
+User Story: 
+As a data reuser, I want to view an example citation for a dataset, so that I can reference it correctly.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to access the example citation through the data provider's website or mobile application.
+2. The example citation should be clearly labeled and identifiable to avoid confusion with other citations or references displayed on the platform.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to access the citation information through the data provider's website.
+2. Upon logging into the data provider's website, the user should see a clear and prominently displayed section or page that provides the citation information.
+3. The user should be able to view the citation information for the dataset.
+4. The user should be able to view the citation information for the dataset in a format that is consistent with the citation style specified by the data provider.
+5. The user should be able to view the data provider.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to view an example citation for a dataset, so that they can reference it correctly.
+2. The example citation should include the dataset name, the dataset version, and the dataset publisher.
+3. The example citation should be clearly labeled and identifiable to avoid confusion with other citations displayed on the platform.
+4. The example citation should be formatted according to the preferred citation style of the dataset publisher.
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to access the example citation for a dataset through the data provider's website.
+2. The example citation should be clearly labeled and identifiable to avoid confusion with other citations displayed on the platform.
+3. The example citation should be displayed in a format that is easy to read and understand.
+4. The example citation should be displayed in a format that is easy to copy and paste into a citation template.
+5. The example citation should be displayed in a format that is easy to share with others.
+6. The example citation should be displayed in a format that is easy to save to a file.
+7. The example citation should be displayed in a format that is easy to export to a citation management tool.
+8. The example citation should be displayed in a format that is easy to search for.
+9. The example citation should be displayed in a format that is easy to filter by author, title, year, and other criteria.
+10. The example citation should be displayed in a format that is easy to import into a format that is easy to export to a format that is easy to export.
+11. The example citation that is easy to import.
+

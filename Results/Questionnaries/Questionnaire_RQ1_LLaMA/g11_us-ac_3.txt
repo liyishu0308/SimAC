@@ -1,0 +1,32 @@
+User Story:
+As a VisualDesigner, I want to create a moodboard to aid with visual design concepts for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to create a moodboard by selecting a theme from a drop-down menu.
+2. The user should be able to select a theme from a drop-down menu.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to create a moodboard by selecting a theme from a dropdown menu.
+2. The user should be able to add images to the moodboard by clicking on the "Add Image" button.
+3. The user should be able to add text to the moodboard by typing text into the text box.
+4. The user should be able to add a link to the moodboard by clicking on the "Add Link" button.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to create a moodboard by selecting a set of images from a gallery of images.
+2. The user should be able to add a title and description to the moodboard.
+3. The user should be able to share the moodboard with other users.
+4. The user should be able to edit the moodboard by adding or removing images, changing the title or description, or sharing the moodboard with other users.
+5. The user should be able to delete the moodboard.
+6. The user should be able to view the moodboard and its associated images.
+7. The user should be able to view the moodboard's title and description.
+8. The user should be able to view the moodboard's associated images.
+9. The user should be able to view the moodboard's associated images in a gallery view.
+
+Acceptance Criteria (generated from Model #4)
+1. The user should be able to create a moodboard by selecting images from a gallery of images.
+2. The user should be able to add text to the moodboard to describe the moodboard.
+3. The user should be able to save the moodboard to a private or public gallery.
+4. The user should be able to share the moodboard with other users.
+5. The user should be able to view the moodboard in a gallery of moodboards.
+6. The user should be able to delete the moodboard.
+7. The user should be able to view the moodboard.
