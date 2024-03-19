@@ -1,9 +1,0 @@
-User Story: 
-As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
-
-Acceptance Criteria:
-1. The system should have mechanism to check the data integrity, such as checksum verfication.
-2. The system should periodically verify the data integrity.
-3. The system should perform regular backup to ensure the data are safely stored.
-4. The system should have version control to manage the data.
-5. The archival process should comply with relevant standards, including those related to data integrity, security, and preservation.
