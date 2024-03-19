@@ -1,0 +1,9 @@
+Acceptance Criteria:
+<start>
+1. The user should be able to access the statement balance information through the credit card provider's mobile application or website.
+2. Upon logging into the credit card account, the user should see a clear and prominently displayed section or page that provides the current statement balance.
+3. The user should be able to view the statement balance for the current billing cycle as well as for previous billing cycles.
+4. The user should be able to view "Payment Due Date" and "Minimum Payment Due".
+5. The statement balance should be clearly labeled and identifiable to avoid confusion with other balances or amounts displayed on the platform.
+6. The user should be able to view "Available Credit". 
+<end>

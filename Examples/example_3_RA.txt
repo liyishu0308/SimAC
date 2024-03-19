@@ -1,0 +1,8 @@
+Acceptance Criteria:
+<start>
+1. Swiping/tapping a notification takes the user directly to the message.
+2. View shows conversation — if the new message was a reply, then it’s displayed above the original.
+3. The message count is updated.
+4. A message is marked read after it’s displayed.
+5. The application should provide appropriate settings to customize the behavior and appearance of notifications.
+<end>

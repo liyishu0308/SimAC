@@ -1,0 +1,2 @@
+User Story:
+As a credit card holder, I want to view my statement balance, so that I can pay the balance due.

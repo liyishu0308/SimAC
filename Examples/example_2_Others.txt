@@ -1,0 +1,11 @@
+Acceptance Criteria:
+<start>
+1. The user should be able to access the registration page from the homepage. 
+2. Users can only submit a form by filling in all the required fields.
+3. The email the user provides must not be provided by free email service.
+4. Submissions from the same IP can only be made three times within 30 minutes.
+5. Users receive notification emails after successfully registering.
+6. The registration page should be responsive and display correctly on different devices and screen sizes.
+7. The registration form should have appropriate field validation, indicating required fields and displaying error messages for missing or invalid inputs.
+8. The registration process should be integrated with any existing authentication or user management systems in the application.
+<end>
