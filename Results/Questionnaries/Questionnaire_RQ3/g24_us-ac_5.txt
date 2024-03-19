@@ -1,0 +1,52 @@
+User Story: 
+As a depositor, I want to have metadata automatically filled from other University systems and remembered from previous deposits, so that I don't have to waste time reentering the same information.
+
+Acceptance Criteria (generated from Model #1)
+1. The system shall retrieve metadata from other University systems (such as the student information system and faculty database) when a depositor fills out the form.
+2. The system shall automatically populate the relevant fields in the form with the retrieved metadata.
+3. The filled metadata from previous deposits shall be editable, in case the depositor needs to make changes or updates.
+4. The system shall validate the retrieved metadata to ensure accuracy and consistency with the University systems.
+5. If the retrieved metadata is invalid or incomplete, the system shall display an error message and prompt the depositor to manually enter the missing information.
+6. The system shall provide a user-friendly interface for the depositor to review and confirm the automatically filled metadata before submitting the deposit.
+7. The system shall not overwrite or delete the existing metadata for other deposits made by the same depositor.
+8. The retrieval and filling of metadata shall happen in real-time, with minimal delay or latency.
+9. The system shall have logging and auditing mechanisms to track any changes or access to the retrieved metadata.
+10. The system shall include a release plan for implementing the retrieval and filling of metadata functionality.
+
+Acceptance Criteria (generated from Model #2)
+1. The system should automatically retrieve metadata from other University systems, such as the student information system, to pre-fill relevant fields during the deposit process.
+2. The pre-filled metadata should include information such as the depositor's name, student ID number, program of study, and contact information.
+3. If the pre-filled metadata needs to be updated or corrected, the user should be able to edit the fields and make changes as necessary.
+4. The system should store the previously entered metadata from the depositor's previous deposits and retrieve it for future deposits.
+5. The stored metadata should be securely saved and only accessible to the depositor and authorized staff members.
+6. The system should provide an option for the depositor to review and confirm the automatically pre-filled metadata before proceeding with the deposit.
+7. In case of any changes in the depositor's information (e.g., name change or program change), the system should allow the depositor to update the metadata and save it for future deposits.
+8. The system should provide appropriate error messages and validations to ensure that the pre-filled metadata is accurate and complete.
+9. When retrieving metadata from other University systems, the system should handle potential discrepancies or conflicts in the data and prompt the user to resolve them.
+10. The system should have proper permission controls to restrict access to the stored metadata and ensure data privacy and confidentiality.
+11. The system should have a clear and user-friendly interface for managing and updating the stored metadata for the depositor.
+
+Acceptance Criteria (generated from Model #3)
+1. The system should be able to retrieve metadata automatically from other University systems, such as student information system and HR database, when a depositor starts a new deposit.
+2. The automatically retrieved metadata should include the necessary and relevant information for the deposit process, such as name, ID, affiliation, department, and contact information.
+3. If the system is unable to retrieve any metadata from other University systems, the depositor should be prompted to manually enter the missing information.
+4. The system should remember the metadata entered by the depositor in previous deposits, so that it can be pre-filled in the appropriate fields whenever the depositor starts a new deposit.
+5. The pre-filled metadata should be editable in case the depositor wants to make changes or updates.
+6. The system should provide clear and intuitive fields for the depositor to view and confirm the pre-filled metadata before submitting the deposit.
+7. The metadata filling and remembering functionality should be secure and comply with any privacy and data protection regulations.
+8. The system should handle and display the retrieved metadata correctly, ensuring accuracy and consistency.
+9. Perform testing for retrieving metadata from different University systems, ensuring that it works seamlessly without any errors or disruptions.
+10. The system should provide a mechanism to refresh or update the retrieved metadata in case there are changes or updates in the University systems.
+
+Acceptance Criteria (generated from Model #4)
+1. The system should automatically retrieve and fill in relevant metadata from other University systems when the depositor starts a new deposit.
+2. The system should securely save and remember the metadata from previous deposits for each depositor, allowing them to be reused without manual re-entry.
+3. The retrieved metadata should include information such as the depositor's name, email address, student ID, department, and any other pertinent information required for the deposit process.
+4. The accuracy and consistency of the retrieved metadata should be validated to ensure the correct information is pre-filled.
+5. Depositors should have the option to review and modify the pre-filled metadata before finalizing the deposit submission.
+6. The system should comply with applicable data privacy regulations and protect the security of the pre-filled and saved metadata.
+7. The system should provide an easy and intuitive way for the depositor to request updates to their metadata if there are any changes or inaccuracies.
+8. The system should handle any errors or exceptions that may occur during the retrieval and pre-filling process, providing appropriate notifications or error messages to the depositor.
+9. The pre-filled metadata should be accessible and available for use in all relevant sections and processes of the deposit system, ensuring a seamless user experience.
+10. The system should securely store and encrypt the saved metadata to protect the privacy of the depositor's information.
+

@@ -1,0 +1,55 @@
+User Story: 
+As a data reuser, I want to view an example citation for a dataset, so that I can reference it correctly.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to access the example citation for a dataset.
+2. The example citation should include the title of the dataset.
+3. The example citation should include the DOI or URL of the dataset.
+4. The example citation should follow a standardized citation format, such as APA or MLA.
+5. The example citation should be displayed in a clear and readable format.
+6. The example citation should be easily copyable or downloadable by the user.
+7. The example citation should be available for all datasets in the system.
+8. The example citation should include relevant metadata fields such as dataset version and license information.
+9. The example citation should include any relevant keywords or tags associated with the dataset.
+10. The example citation should include information on how to contact the dataset's author or curator for further enquiries.
+11. The example citation should be automatically updated if any changes are made to the dataset's metadata.
+12. The example citation should be shareable on social media platforms, such as Twitter or Facebook.
+13. The user should be able to download the example citation in PDF or text format.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to access the example citation information for a dataset through the data reuser platform.
+2. Upon accessing the dataset, the user should see a clearly labeled and prominently displayed section that provides the example citation.
+3. The example citation should include the necessary information such as author(s), title, publication date, publisher, and any other relevant details.
+4. The example citation should follow a standard citation format, such as APA or MLA, as specified by the platform or organization.
+5. The example citation should be easily copyable or downloadable, allowing the user to easily reference it in their own work.
+6. The example citation should be up-to-date and reflect any changes made to the dataset or metadata.
+7. The data reuser platform should provide an option to generate a citation automatically based on the dataset's metadata.
+8. The example citation should be validated to ensure that it is accurate and free of any errors or inconsistencies.
+9. In case the dataset is part of a larger publication, the example citation should indicate the specific chapter or section relevant to the dataset.
+10. The platform should provide guidance or instructions on how to properly use and format the example citation in academic or research documents.
+11. The dataset should have a unique identifier (e.g., DOI, handle, or persistent URL) included in the example citation to ensure proper attribution and referencing.
+
+Acceptance Criteria (generated from Model #3)
+1. The example citation for a dataset should be accessible from the dataset details page.
+2. The example citation should include the necessary information such as the dataset title, author/creator, publication year, version, and source.
+3. The example citation should follow a recognized citation style, such as APA or MLA, to ensure proper referencing.
+4. The example citation should be displayed in a clear and readable format, with appropriate line breaks and formatting.
+5. The example citation should be easily copyable or downloadable for users to use it in their own references.
+6. The dataset details page should display the citation in a separate section, clearly labeled as "Example Citation" or similar.
+7. The citation should be generated dynamically based on the dataset information, ensuring accuracy and consistency.
+8. The example citation should be visually distinguishable from other text on the page, using formatting such as font style, size, or color.
+9. The citation should include a DOI (Digital Object Identifier) if available for the dataset.
+10. The example citation should include a persistent identifier (e.g., DOI or URL) that can be used to access and verify the dataset source.
+11. The example citation should include any applicable license or usage restrictions for the dataset.
+
+Acceptance Criteria (generated from Model #4)
+1. On the dataset details page, there should be a section or button labeled "View Example Citation".
+2. Clicking on the "View Example Citation" section or button should display an example citation for the dataset.
+3. The example citation should follow a widely recognized citation style (e.g., APA, MLA).
+4. The example citation should include all necessary information to reference the dataset, such as title, author(s), publication or repository source, date of publication or creation, and any other relevant details.
+5. The example citation should be displayed in a clear and readable format, making it easy for the data reuser to reference the dataset correctly.
+6. The example citation should be accurate and up-to-date, reflecting the latest information about the dataset.
+7. The website should provide a tooltip or brief explanation of the citation style used, enabling the data reuser to understand the formatting rules and conventions.
+8. The example citation should include a DOI (Digital Object Identifier) or a persistent URL, if applicable, to provide a direct and reliable link to the dataset.
+9. The example citation should be accessible to screen readers and comply with accessibility standards for visually impaired users.
+

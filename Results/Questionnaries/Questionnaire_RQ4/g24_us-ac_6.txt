@@ -1,0 +1,29 @@
+User Story: 
+As a data reuser, I want to view a DOI for a dataset, so that I can get back to the data in future and I can import the dataset into my referencemanagement software automatically.
+
+Acceptance Criteria (generated from Model #1)
+1. The user should be able to view a DOI (Digital Object Identifier) for a dataset.
+2. The DOI should be clearly displayed on the dataset's information page or metadata.
+3. Clicking on the DOI should direct the user to the landing page or repository where the dataset is hosted.
+4. The DOI should be persistent and unique, ensuring that it remains accessible for future reference.
+5. The user should be able to easily copy the DOI to their clipboard or export it for use in reference management software.
+6. The DOI should follow the standard DOI format and conventions.
+7. The dataset should include the necessary metadata required to generate a DOI, such as title, author(s), publication date, and version information if applicable.
+8. The DOI should be searchable and discoverable through relevant DOI search platforms or databases.
+9. The dataset's landing page or repository should provide compatibility information regarding reference management software that can import the dataset using the DOI.
+10. The application should provide an option to automatically import the DOI and relevant metadata into reference management software.
+11. The DOI should be associated with the exact version of the dataset used, to ensure reproducibility and prevent confusion.
+
+Acceptance Criteria (generated from Model #2)
+1. The user should be able to view a DOI (Digital Object Identifier) for a dataset.
+2. The DOI should be clearly displayed on the dataset's information page or metadata.
+3. The DOI should follow the standard DOI format and conventions.
+
+Acceptance Criteria (generated from Model #3)
+1. The user should be able to view a DOI (Digital Object Identifier) for a dataset.
+2. The DOI should be clearly displayed on the dataset's information page or metadata.
+3. The DOI should be persistent and unique, ensuring that it remains accessible for future reference.
+4. The user should be able to easily copy the DOI to their clipboard or export it for use in reference management software.
+5. The DOI should follow the standard DOI format and conventions.
+6. The dataset should include the necessary metadata required to generate a DOI, such as title, author(s), publication date, and version information if applicable.
+

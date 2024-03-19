@@ -1,0 +1,22 @@
+User Story: 
+As a VisualDesigner, I want to create a moodboard to aid with visual design concepts for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+
+Acceptance Criteria (generated from Model #1)
+1. The Visual Designer should be able to access the moodboard creation feature from the visual design tool.
+2. The moodboard creation feature should allow the Visual Designer to upload and arrange images, text, and color swatches to create the desired visual design concepts.
+3. The Visual Designer should be able to add labels or descriptions to the elements in the moodboard to provide context and explain the design concepts.
+4. The moodboard should be visually appealing and well-organized, making it easy to understand and navigate for all stakeholders.
+5. The moodboard should provide a good representation of different design concepts, showcasing a variety of visual elements, layouts, and color schemes.
+6. The moodboard should be accessible and compatible with different devices and screen sizes to ensure that all stakeholders can view and provide feedback on the design concepts.
+7. The moodboard creation feature should have appropriate error handling and validation, alerting the Visual Designer of any issues with uploading or arranging elements.
+8. The moodboard creation feature should support collaboration, allowing multiple team members to work on the moodboard simultaneously and make real-time updates.
+
+Acceptance Criteria (generated from Model #2)
+1. The Visual Designer should be able to access the moodboard creation feature from the visual design tool.
+2. The moodboard should provide a good representation of different design concepts, showcasing a variety of visual elements, layouts, and color schemes.
+
+Acceptance Criteria (generated from Model #3)
+1. The Visual Designer should be able to access the moodboard creation feature from the visual design tool.
+2. The moodboard should be visually appealing and well-organized, making it easy to understand and navigate for all stakeholders.
+3. The moodboard should provide a good representation of different design concepts, showcasing a variety of visual elements, layouts, and color schemes.
+
