@@ -1,0 +1,2 @@
+User story:
+As a user, I want to use a search field to type a city, name, or street, so that I could find matching hotel options.

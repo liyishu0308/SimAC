@@ -1,0 +1,8 @@
+Acceptance Criteria:
+<start>
+1. The search field should be prominently displayed on the user interface, preferably at the top or in a clearly visible location.
+2. The search field should allow the user to type a city, name, or street to initiate a search.
+3. The search should be case-insensitive, meaning it should retrieve results regardless of whether the input is in uppercase or lowercase.
+4. The search results should be sorted based on relevance, with the most relevant matches displayed first.
+5. The search functionality should be thoroughly tested across different browsers, devices, and screen resolutions to ensure consistent behavior.
+<end>

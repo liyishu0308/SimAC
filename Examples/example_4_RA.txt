@@ -1,0 +1,9 @@
+Acceptance Criteria:
+<start>
+1. The website should have a visible and easily accessible feedback submission feature on all relevant pages.
+2. The feedback form should have the following mandatory fields: Name, Email Address, and Feedback Message.
+3. Upon successful submission of feedback, the website should display a confirmation message to the user.
+4. The website should send an email notification to the website owners containing the submitted feedback details, including the user's name, email address, and feedback message.
+5. The feedback submission feature should be accessible and fully functional on different devices and screen sizes, including desktop, mobile, and tablet.
+6.The feedback submission feature should comply with applicable privacy laws and regulations, ensuring the protection of user information and maintaining user anonymity if desired.
+<end>
